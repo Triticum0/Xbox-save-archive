@@ -1,0 +1,13 @@
+Your profile will read SickTwist
+
+You will have the following content:
+
+Slot 1.(3) Cocktails
+Slot 2.(3) Cocktails
+Slot 3.Gas Mask (Switchable Slot)
+Slot 4.Silenced G3A3
+
+If you replace the first, second, or third
+slot with something else, you will lose the
+contents above. You will have to reload it
+again from your memory card.

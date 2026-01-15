@@ -1,0 +1,208 @@
+◊61Ì√è¬≈“kïöFΩ{•0‹
+
+[Controls]
+InputRate = 12
+LeftHandedMode = 0
+SensitivityY = 2
+FastTurn = 23
+InvertMouse = 1
+SensitivityX = 5
+AutoCenter = 0
+LookUp = 25
+MouseLook = 1
+NormalTurn = 15
+Vibration = 10
+
+[Multiplayer]
+AllowScmdCommands = FALSE
+PlayerSkills5 = 2
+PlayerSkills6 = 2
+AppearOnline = TRUE
+PlayerName = "Jay 'FNG'"
+PlayerSkills7 = 1
+PrivateServer = FALSE
+ScmdPassword = "Password"
+BandwidthClientCustom = 1500
+BandwidthServerCustom = 1500
+Password = "Password"
+PlayerSkills0 = 1
+PlayerSkills8 = -1
+WeaponRestrictions = ""
+BandwidthClient = 3
+BandwidthServer = 3
+ClientPort = 1000
+GameType = 1
+GearRestrictions = ""
+MPDifficulty = 1
+PlayerSkills1 = 1
+UsePassword = FALSE
+LANOnly = TRUE
+PlayerSkills2 = 2
+Port = 1000
+MaxPlayers = 4
+MPPlayerDiffFactor = 102.1
+PlayerSkills3 = 2
+AmmoRestrictions = ""
+Dedicated = FALSE
+DMPlayerModel = 0
+FriendlyFire = TRUE
+MPRadar = TRUE
+PlayerSkills4 = 1
+TeamModel = 0
+Guid = ""
+SkillAllowance = 10000
+
+[TeamDM]
+Team0Name = "Cenzo Gang"
+FriendlyFire = TRUE
+NumMaps = 0
+Rounds = 1
+ScoreLimit = 25
+Team1Name = "Torello Gang"
+MaxPlayers = 8
+NumTeams = 2
+RunSpeed = 130
+TimeLimit = 10
+
+[CTF]
+Team0Name = "Cenzo Gang"
+FriendlyFire = TRUE
+NumMaps = 0
+Rounds = 1
+ScoreLimit = 100
+Team1Name = "Torello Gang"
+MaxPlayers = 8
+NumTeams = 2
+RunSpeed = 130
+TimeLimit = 10
+
+[Settings]
+Tracers = 1
+TripleBuffering = 1
+DynamicLight = 1
+EnvironmentalDetail = 0
+EnvironmentBumpMapping = 1
+EnvironmentMapping = 1
+FXDetail = 0
+MusicActive = 0
+PolyGridFresnel = 1
+ShadowDetail = 1
+MusicQuality = 1
+PreCacheAssets = 1
+SoundQuality = 1
+TrilinearFiltering = 1
+AnisotropicFiltering = 1
+DetailLevel = 0
+DetailTextures = 1
+PolyGridBumpmap = 1
+ShellCasings = 1
+
+[Sound]
+defaultsoundmultiplier = 102.75
+musicvolume = -2500
+sound16bit = 1
+soundvolume = 75
+VoiceSpeakerVolume = 75
+VoiceThroughSpeakers = 1
+weaponssoundmultiplier = 1
+MusicQuality = 1
+VoiceMask = 0
+
+[XboxLiveTeamDM]
+Team0Name = "Cenzo Gang"
+FriendlyFire = TRUE
+NumMaps = 0
+Rounds = 1
+ScoreLimit = 25
+Team1Name = "Torello Gang"
+MaxPlayers = 8
+NumTeams = 2
+RunSpeed = 130
+TimeLimit = 10
+
+[Details]
+LargeTex = 1
+RegularTex = 1
+XLargeTex = 2
+
+[Domination]
+Team0Name = "Cenzo Gang"
+FriendlyFire = TRUE
+NumMaps = 0
+Rounds = 1
+ScoreLimit = 100
+Team1Name = "Torello Gang"
+MaxPlayers = 8
+NumTeams = 2
+RunSpeed = 130
+TimeLimit = 10
+
+[Game]
+AutoWeaponSwitch = 1
+CrosshairRed = 255
+Gore = 1
+HeadBob = 10
+SPRadar = TRUE
+AlwaysRun = 1
+CrosshairBlue = 15
+FadeBodies = 0
+WeaponSway = 10
+CrosshairDynamic = 1
+CrosshairGreen = 255
+CrosshairStyle = 1
+Difficulty = 1
+HUDLayout = 0
+Subtitles = 1
+UseCrosshair = 1
+AutoAim = FALSE
+CrosshairAlpha = 127
+LoadScreenTips = 1
+MessageDur = 10
+
+[Version]
+VersionNumber = 54
+
+[XboxLiveCTF]
+Team0Name = "Cenzo Gang"
+FriendlyFire = TRUE
+NumMaps = 0
+Rounds = 1
+ScoreLimit = 100
+Team1Name = "Torello Gang"
+MaxPlayers = 8
+NumTeams = 2
+RunSpeed = 130
+TimeLimit = 10
+
+[XboxLiveDM]
+MaxPlayers = 8
+RunSpeed = 130
+TimeLimit = 10
+NumMaps = 0
+Rounds = 1
+ScoreLimit = 25
+
+[Deathmatch]
+MapName1 = "Worlds\RetailMultiPlayer\DM-01"
+MaxPlayers = 8
+RunSpeed = 130
+TimeLimit = 10
+MapName0 = "Worlds\RetailMultiPlayer\DM-01"
+NumMaps = 2
+Rounds = 1
+ScoreLimit = 25
+
+[SinglePlayer]
+BWRestrictions = 3
+
+[XboxLiveDomination]
+Team0Name = "Cenzo Gang"
+FriendlyFire = TRUE
+NumMaps = 0
+Rounds = 1
+ScoreLimit = 100
+Team1Name = "Torello Gang"
+MaxPlayers = 8
+NumTeams = 2
+RunSpeed = 130
+TimeLimit = 10

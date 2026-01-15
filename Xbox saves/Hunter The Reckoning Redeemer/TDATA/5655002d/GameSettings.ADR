@@ -1,0 +1,144 @@
+NameSpace "Settings"
+DataComponentTypes[ 4 ]
+{
+	DataComponent { Type Boolean	NumComponents 57 }
+	DataComponent { Type Int	NumComponents 65 }
+	DataComponent { Type Real	NumComponents 5 }
+	DataComponent { Type String	NumComponents 6 }
+}
+DataRegistry[ 133 ]
+{
+	DataLink { Name "AutoSaveOn"	Type Boolean	Data 0 }
+	DataLink { Name "DEFAULT0"	Type Int	Floor 0	Ceiling 8	Data 0 }
+	DataLink { Name "DEFAULT1"	Type Int	Floor 0	Ceiling 8	Data 0 }
+	DataLink { Name "DEFAULT2"	Type Int	Floor 0	Ceiling 8	Data 0 }
+	DataLink { Name "DEFAULT3"	Type Int	Floor 0	Ceiling 8	Data 0 }
+	DataLink { Name "P1Rumble"	Type Int	Floor 0	Ceiling 1	Data 1 }
+	DataLink { Name "P2Rumble"	Type Int	Floor 0	Ceiling 1	Data 1 }
+	DataLink { Name "P3Rumble"	Type Int	Floor 0	Ceiling 1	Data 1 }
+	DataLink { Name "P4Rumble"	Type Int	Floor 0	Ceiling 1	Data 1 }
+	DataLink { Name "Blood"	Type Int	Floor 0	Ceiling 1	Data 1 }
+	DataLink { Name "FrFire"	Type Int	Floor 0	Ceiling 10	Data 0 }
+	DataLink { Name "Language"	Type Int	Floor 0	Ceiling 10	Data 0 }
+	DataLink { Name "Music"	Type Real	Floor 0.000000	Ceiling 1.000000	Data 1.000000 }
+	DataLink { Name "SoundFX"	Type Real	Floor 0.000000	Ceiling 1.000000	Data 1.000000 }
+	DataLink { Name "Voice"	Type Real	Floor 0.000000	Ceiling 1.000000	Data 1.000000 }
+	DataLink { Name "Cinema"	Type Real	Floor 0.000000	Ceiling 1.000000	Data 1.000000 }
+	DataLink { Name "Britness"	Type Real	Floor 0.000000	Ceiling 1.000000	Data 0.000000 }
+	DataLink { Name "Complete"	Type Int	Floor 0	Ceiling 1	Data 0 }
+	DataLink { Name "AltHunt"	Type Int	Floor 0	Ceiling 1	Data 0 }
+	DataLink { Name "Difficulty"	Type Int	Floor 0	Ceiling 2	Data 1 }
+	DataLink { Name "AltHntA"	Type Int	Floor 0	Ceiling 1	Data 0 }
+	DataLink { Name "NMareA"	Type Int	Floor 0	Ceiling 1	Data 0 }
+	DataLink { Name "Monstr0ID"	Type Int	Floor 0	Ceiling 500	Data 11 }
+	DataLink { Name "Monstr0Kills"	Type Int	Floor 0	Ceiling 5000000	Data 2073 }
+	DataLink { Name "Monstr0Limit0"	Type Int	Floor 0	Ceiling 5000000	Data 200 }
+	DataLink { Name "Monstr0Limit1"	Type Int	Floor 0	Ceiling 5000000	Data 400 }
+	DataLink { Name "Monstr0Limit2"	Type Int	Floor 0	Ceiling 5000000	Data 600 }
+	DataLink { Name "Monstr0Card0"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr0Card1"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr0Card2"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr1ID"	Type Int	Floor 0	Ceiling 500	Data 51 }
+	DataLink { Name "Monstr1Kills"	Type Int	Floor 0	Ceiling 5000000	Data 111 }
+	DataLink { Name "Monstr1Limit0"	Type Int	Floor 0	Ceiling 5000000	Data 50 }
+	DataLink { Name "Monstr1Limit1"	Type Int	Floor 0	Ceiling 5000000	Data 100 }
+	DataLink { Name "Monstr1Limit2"	Type Int	Floor 0	Ceiling 5000000	Data 150 }
+	DataLink { Name "Monstr1Card0"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr1Card1"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr1Card2"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr2ID"	Type Int	Floor 0	Ceiling 500	Data 48 }
+	DataLink { Name "Monstr2Kills"	Type Int	Floor 0	Ceiling 5000000	Data 6259 }
+	DataLink { Name "Monstr2Limit0"	Type Int	Floor 0	Ceiling 5000000	Data 500 }
+	DataLink { Name "Monstr2Limit1"	Type Int	Floor 0	Ceiling 5000000	Data 1000 }
+	DataLink { Name "Monstr2Limit2"	Type Int	Floor 0	Ceiling 5000000	Data 1500 }
+	DataLink { Name "Monstr2Card0"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr2Card1"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr2Card2"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr3ID"	Type Int	Floor 0	Ceiling 500	Data 64 }
+	DataLink { Name "Monstr3Kills"	Type Int	Floor 0	Ceiling 5000000	Data 113 }
+	DataLink { Name "Monstr3Limit0"	Type Int	Floor 0	Ceiling 5000000	Data 100 }
+	DataLink { Name "Monstr3Limit1"	Type Int	Floor 0	Ceiling 5000000	Data 200 }
+	DataLink { Name "Monstr3Limit2"	Type Int	Floor 0	Ceiling 5000000	Data 300 }
+	DataLink { Name "Monstr3Card0"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr3Card1"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr3Card2"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr4ID"	Type Int	Floor 0	Ceiling 500	Data 209 }
+	DataLink { Name "Monstr4Kills"	Type Int	Floor 0	Ceiling 5000000	Data 1743 }
+	DataLink { Name "Monstr4Limit0"	Type Int	Floor 0	Ceiling 5000000	Data 500 }
+	DataLink { Name "Monstr4Limit1"	Type Int	Floor 0	Ceiling 5000000	Data 1000 }
+	DataLink { Name "Monstr4Limit2"	Type Int	Floor 0	Ceiling 5000000	Data 1500 }
+	DataLink { Name "Monstr4Card0"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr4Card1"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr4Card2"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr5ID"	Type Int	Floor 0	Ceiling 500	Data 208 }
+	DataLink { Name "Monstr5Kills"	Type Int	Floor 0	Ceiling 5000000	Data 78 }
+	DataLink { Name "Monstr5Limit0"	Type Int	Floor 0	Ceiling 5000000	Data 25 }
+	DataLink { Name "Monstr5Limit1"	Type Int	Floor 0	Ceiling 5000000	Data 50 }
+	DataLink { Name "Monstr5Limit2"	Type Int	Floor 0	Ceiling 5000000	Data 75 }
+	DataLink { Name "Monstr5Card0"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr5Card1"	Type Boolean	Data 1 }
+	DataLink { Name "Monstr5Card2"	Type Boolean	Data 1 }
+	DataLink { Name "BikVar1"	Type Boolean	Data 1 }
+	DataLink { Name "BikVar2"	Type Boolean	Data 1 }
+	DataLink { Name "BikVar3"	Type Boolean	Data 1 }
+	DataLink { Name "BikVar4"	Type Boolean	Data 1 }
+	DataLink { Name "CopVar1"	Type Boolean	Data 1 }
+	DataLink { Name "CopVar2"	Type Boolean	Data 1 }
+	DataLink { Name "CopVar3"	Type Boolean	Data 1 }
+	DataLink { Name "CopVar4"	Type Boolean	Data 1 }
+	DataLink { Name "PriVar1"	Type Boolean	Data 1 }
+	DataLink { Name "PriVar2"	Type Boolean	Data 1 }
+	DataLink { Name "PriVar3"	Type Boolean	Data 1 }
+	DataLink { Name "PriVar4"	Type Boolean	Data 1 }
+	DataLink { Name "RavVar1"	Type Boolean	Data 1 }
+	DataLink { Name "RavVar2"	Type Boolean	Data 1 }
+	DataLink { Name "RavVar3"	Type Boolean	Data 1 }
+	DataLink { Name "RavVar4"	Type Boolean	Data 1 }
+	DataLink { Name "KayVar1"	Type Boolean	Data 1 }
+	DataLink { Name "KayVar2"	Type Boolean	Data 1 }
+	DataLink { Name "KayVar3"	Type Boolean	Data 1 }
+	DataLink { Name "KayVar4"	Type Boolean	Data 1 }
+	DataLink { Name "WayVar1"	Type Boolean	Data 1 }
+	DataLink { Name "WayVar2"	Type Boolean	Data 1 }
+	DataLink { Name "WayVar3"	Type Boolean	Data 1 }
+	DataLink { Name "WayVar4"	Type Boolean	Data 1 }
+	DataLink { Name "CarVar1"	Type Boolean	Data 1 }
+	DataLink { Name "CarVar2"	Type Boolean	Data 1 }
+	DataLink { Name "CarVar3"	Type Boolean	Data 1 }
+	DataLink { Name "CarVar4"	Type Boolean	Data 1 }
+	DataLink { Name "CompAwrdTime"	Type Int	Floor 0	Ceiling 5000000	Data 30000 }
+	DataLink { Name "CompAwrd0Kills"	Type Int	Floor 0	Ceiling 5000000	Data 15 }
+	DataLink { Name "CompAwrd1Kills"	Type Int	Floor 0	Ceiling 5000000	Data 20 }
+	DataLink { Name "CompAwrd2Kills"	Type Int	Floor 0	Ceiling 5000000	Data 26 }
+	DataLink { Name "CompAwrd3Kills"	Type Int	Floor 0	Ceiling 5000000	Data 33 }
+	DataLink { Name "CompAwrd4Kills"	Type Int	Floor 0	Ceiling 5000000	Data 41 }
+	DataLink { Name "CarpUnlock"	Type Boolean	Data 1 }
+	DataLink { Name "WaywrdUnlock"	Type Boolean	Data 1 }
+	DataLink { Name "VincentUnlock"	Type Boolean	Data 1 }
+	DataLink { Name "BSDUnlock"	Type Boolean	Data 1 }
+	DataLink { Name "NumGals"	Type Int	Data 6 }
+	DataLink { Name "GalName0"	Type String	Data "Env0" }
+	DataLink { Name "GalLock0"	Type Boolean	Data 1 }
+	DataLink { Name "GalName1"	Type String	Data "Env1" }
+	DataLink { Name "GalLock1"	Type Boolean	Data 1 }
+	DataLink { Name "GalName2"	Type String	Data "Huntr" }
+	DataLink { Name "GalLock2"	Type Boolean	Data 1 }
+	DataLink { Name "GalName3"	Type String	Data "Misc" }
+	DataLink { Name "GalLock3"	Type Boolean	Data 1 }
+	DataLink { Name "GalName4"	Type String	Data "Monstr" }
+	DataLink { Name "GalLock4"	Type Boolean	Data 1 }
+	DataLink { Name "GalName5"	Type String	Data "Weap" }
+	DataLink { Name "GalLock5"	Type Boolean	Data 1 }
+	DataLink { Name "KillWarGhoul1Time"	Type Int	Data 3 }
+	DataLink { Name "KillDemon1Time"	Type Int	Data 2 }
+	DataLink { Name "KillSanta3Times"	Type Int	Data 4 }
+	DataLink { Name "KillAbomination3Times"	Type Int	Data 4 }
+	DataLink { Name "KillWarGhoul3Times"	Type Int	Data 3 }
+	DataLink { Name "KillBSD3Times"	Type Int	Data 2 }
+	DataLink { Name "10000Kills"	Type Int	Data 12051 }
+	DataLink { Name "Rescue100Innocents"	Type Int	Data 0 }
+	DataLink { Name "KillDemon3Times"	Type Int	Data 2 }
+	DataLink { Name "CompleteNightclub3Times"	Type Int	Data 0 }
+	DataLink { Name "Kill10TeddyBears"	Type Int	Data 3 }
+	DataLink { Name "Let250InnocentsDie"	Type Int	Data 83 }
+}

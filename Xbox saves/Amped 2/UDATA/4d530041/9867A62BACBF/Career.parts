@@ -1,0 +1,67 @@
+BoarderParts = 
+{
+	AnimatingHair = 
+	{
+		MeshName = "M_HAIR_SHAGGY_HAT",
+		MeshType = "SHAGGY",
+		TextureName = "M_SHAGGY_GENERIC_01",
+	},
+	Board = 
+	{
+		MeshName = "snowboard",
+		MeshType = "Snowboard",
+		TextureName = "BOARDS_K2_10",
+	},
+	BoarderTypeDir = "Boarder",
+	Boots = 
+	{
+		TextureName = "BOOTSBINDINGS_DC_01",
+	},
+	Bottom = 
+	{
+		MeshName = "M_BOTTOMS_PANTS_STRAIGHT",
+		MeshType = "PANTS_STRAIGHT",
+		TextureName = "M_PANTS_STRAIGHT_ANALOG_01",
+	},
+	Eyewear = 
+	{
+		MeshName = "M_EYEWEAR_GOGGLES_DRAGON_HUT",
+		MeshType = "GOGGLES_DRAGON_HEAD",
+		TextureName = "M_GOGGLES_DRAGON_GENERIC_04",
+	},
+	Gloves = 
+	{
+		MeshName = "M_GLOVES_GLOVES",
+		MeshType = "GLOVES",
+		TextureName = "M_GLOVES_GENERIC_06",
+	},
+	Hat = 
+	{
+		MeshName = "M_HATS_BEANIE_HUT",
+		MeshType = "BEANIE_HUT",
+		TextureName = "M_BEANIE_GENERIC_06",
+	},
+	Head = 
+	{
+		MeshName = "m_heads_white01",
+		MeshType = "m_white",
+		TextureName = "m_white_01",
+	},
+	Sex = "Male",
+	ShadowFile = "m_shadows_board_bulky",
+	Skate = 
+	{
+		MeshName = "snowskate",
+		MeshType = "Snowskate",
+		TextureName = "SKATES_BURTON_01",
+	},
+	SkeletonFile = "skeleton_hi",
+	Top = 
+	{
+		MeshName = "M_TOPS_HOODIE_BULKY",
+		MeshType = "HOODIE_BULKY",
+		TextureName = "M_HOODIE_BURTON_01",
+	},
+}
+
+

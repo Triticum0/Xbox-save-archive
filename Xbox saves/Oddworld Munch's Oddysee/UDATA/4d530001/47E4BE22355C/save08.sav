@@ -1,0 +1,844 @@
+<aliveSave>
+<clock accumulated="13.205134"/>
+<game abespooce="0.000000" munchspooce="0.000000"><layouttally alive="0" flavor="mudokon" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="native" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="archer" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="tomohawker" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="worker" killed="0" rescued="0"/>
+<layouttally alive="1" flavor="shaman" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="abe" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="slig" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="fuzzle" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="glukkon" killed="0" rescued="0"/>
+<layouttally alive="11" flavor="slog" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="scrab" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="paramite" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="intern" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="bigbro" killed="0" rescued="0"/>
+<layouttally alive="1" flavor="munch" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="meetle" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="vykker" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="meep" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="eggcrate" killed="0" rescued="0"/>
+<gametally alive="0" flavor="mudokon" killed="0" rescued="0"/>
+<gametally alive="9" flavor="native" killed="0" rescued="0"/>
+<gametally alive="0" flavor="archer" killed="0" rescued="0"/>
+<gametally alive="0" flavor="tomohawker" killed="0" rescued="0"/>
+<gametally alive="0" flavor="worker" killed="0" rescued="0"/>
+<gametally alive="3" flavor="shaman" killed="0" rescued="0"/>
+<gametally alive="2" flavor="abe" killed="0" rescued="0"/>
+<gametally alive="0" flavor="slig" killed="1" rescued="0"/>
+<gametally alive="0" flavor="fuzzle" killed="0" rescued="38"/>
+<gametally alive="0" flavor="glukkon" killed="0" rescued="0"/>
+<gametally alive="10" flavor="slog" killed="4" rescued="0"/>
+<gametally alive="0" flavor="scrab" killed="0" rescued="0"/>
+<gametally alive="0" flavor="paramite" killed="0" rescued="0"/>
+<gametally alive="0" flavor="intern" killed="9" rescued="0"/>
+<gametally alive="0" flavor="bigbro" killed="0" rescued="0"/>
+<gametally alive="1" flavor="munch" killed="2" rescued="0"/>
+<gametally alive="0" flavor="meetle" killed="0" rescued="0"/>
+<gametally alive="0" flavor="vykker" killed="0" rescued="0"/>
+<gametally alive="0" flavor="meep" killed="0" rescued="0"/>
+<gametally alive="0" flavor="eggcrate" killed="0" rescued="0"/>
+</game>
+<oddio EnvEffect="15" PrimaryMusic="munch03.sgt"/>
+<environment effect="15" filename="./../layout/region01/room15/room15.xrg" health="0.010000" munchcam="70050" munchdir="0.999913,-0.013164,0.000000,0.013164,0.999913,0.000000,0.000000,0.000000,1.000000" munchpos="280.174011,426.722626,80.050377" munchspawn="1">
+<layout filename="./../layout/region01/room15/room15.xin" loaded="yes">
+<director avgcameradirection="0.003845,-0.990208,-0.139538" blendduration="0.000000" blendtimer="0.000000" camera="70050" cameraresetflag="0" characterschanged="0" currentcharacterid="2" cutflag="0" freezeRemaining="0.000000" newTargetDelayRemaining="0.000000" newTargetPending="0" targetid="2"><trackinginfoabe camera="70050" isvalid="0" position="0.000000,0.000000,0.000000"/>
+<trackinginfomunch camera="70050" isvalid="1" position="280.272369,419.389862,80.050377"/>
+<trackinginfotarget camera="70050" isvalid="1" position="280.272369,419.389862,80.050377"/>
+<blendcamera0 anchorpos="0.000000,0.000000,0.000000" averagespeed="0.000000" averagevelocity="0.000000,0.000000,0.000000" camheight="10.000000" camtype="follow" centerx="0.500000" centery="0.500000" enabledpad="1" farclip="1000.000000" filteredfollowpoint="0.000000,0.000000,0.000000" followmax="200.000000" followmin="50.000000" followpoint="0.000000,0.000000,0.000000" heading="0.000000" heightmax="100.000000" heightmin="0.000000" jumplookdelay="0.500000" jumplookfactor="1.000000" jumplooktimer="0.000000" lensfactor="1.000000" lockheading="0" lookdist="20.000000" lookfactor="20.000000" lookheight="15.000000" lookspeed="0.250000" movespeed="0.250000" nocollidetest="0" noobstructtest="0" occlusiontimer="0.000000" pitch="0.000000" position="0.000000,0.000000,0.000000" previousfollowpoint="0.000000,0.000000,0.000000" stuckstate="0" stuckvector="0.000000,0.000000,0.000000" zmovefactor="0.500000"/>
+<blendcamera1 anchorpos="0.000000,0.000000,0.000000" averagespeed="0.000000" averagevelocity="-0.000000,0.000000,0.000000" camheight="10.000000" camtype="follow" centerx="0.500000" centery="0.500000" enabledpad="1" farclip="1000.000000" filteredfollowpoint="279.997284,489.999939,98.000381" followmax="80.000000" followmin="50.000000" followpoint="279.997284,489.999939,98.000381" heading="180.000000" heightmax="75.000000" heightmin="0.000000" jumplookdelay="0.500000" jumplookfactor="0.100000" jumplooktimer="0.000000" lensfactor="1.000000" lockheading="0" lookdist="0.000000" lookfactor="20.000000" lookheight="8.000000" lookspeed="0.250000" movespeed="0.250000" nocollidetest="0" noobstructtest="0" occlusiontimer="0.000000" pitch="0.000000" position="279.000000,477.000000,93.000000" previousfollowpoint="279.997284,489.999939,98.000381" stuckstate="0" stuckvector="0.000000,0.000000,0.000000" zmovefactor="0.500000"/>
+<currentview centerx="0.500000" centery="0.500000" farclip="1000.000000" lensfactor="1.000000" pitchoffset="0.000000" position="279.997284,489.999939,98.000381" targetposition="280.272308,419.389862,88.050377" yawoffset="0.000000"/>
+<charpreviouscamera0 anchorpos="0.000000,0.000000,0.000000" averagespeed="0.000000" averagevelocity="0.000000,0.000000,0.000000" camheight="10.000000" camtype="follow" centerx="0.500000" centery="0.500000" enabledpad="1" farclip="1000.000000" filteredfollowpoint="0.000000,0.000000,0.000000" followmax="200.000000" followmin="50.000000" followpoint="0.000000,0.000000,0.000000" heading="0.000000" heightmax="100.000000" heightmin="0.000000" jumplookdelay="0.500000" jumplookfactor="1.000000" jumplooktimer="0.000000" lensfactor="1.000000" lockheading="0" lookdist="0.000000" lookfactor="20.000000" lookheight="15.000000" lookspeed="0.250000" movespeed="0.250000" nocollidetest="0" noobstructtest="0" occlusiontimer="0.000000" pitch="0.000000" position="0.000000,0.000000,0.000000" previousfollowpoint="0.000000,0.000000,0.000000" stuckstate="0" stuckvector="0.000000,0.000000,0.000000" zmovefactor="0.500000"/>
+<charpreviouscamera1 anchorpos="0.000000,0.000000,0.000000" averagespeed="0.000000" averagevelocity="-0.000000,0.000000,0.000000" camheight="10.000000" camtype="follow" centerx="0.500000" centery="0.500000" enabledpad="1" farclip="1000.000000" filteredfollowpoint="279.997284,489.999939,98.000381" followmax="80.000000" followmin="50.000000" followpoint="279.997284,489.999939,98.000381" heading="180.000000" heightmax="75.000000" heightmin="0.000000" jumplookdelay="0.500000" jumplookfactor="0.100000" jumplooktimer="0.000000" lensfactor="1.000000" lockheading="0" lookdist="0.000000" lookfactor="20.000000" lookheight="8.000000" lookspeed="0.250000" movespeed="0.250000" nocollidetest="0" noobstructtest="0" occlusiontimer="0.000000" pitch="0.000000" position="279.000000,477.000000,93.000000" previousfollowpoint="279.997284,489.999939,98.000381" stuckstate="0" stuckvector="0.000000,0.000000,0.000000" zmovefactor="0.500000"/>
+</director>
+<room name="none">
+<actor collidetype="0" guid="70060" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" enveffect="15" guid="2" health="0,1100.000000,0.000000,1100.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="1" spooce="0,0.000000,0.000000,10000.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="0" newscriptname="Munchbasic.txt" scriptname=""/>
+    <zapfx state="0"/>
+    <textdisplay active="0" color="0.000000,1.000000,0.000000,1.000000" flicker="0" message="0" riseoffset="0.000000" scrolloffset="0.000000" speed="20.000000" type="2"/>
+    <sparklefx/>
+    <sonar activatemsg="1" echomsg="0" pingtime="13.2051" tickmsg="0"/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="0" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <munchanimation alphaceilingsize="0" clampcompleted="0" completetime="14.641304" facing="0.013590,-0.999908,-0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" gettingshot="0" leanangle="0.000000" leanback="-0.750000" leanforward="-0.750000" mainrotate="0.000000,0.000000,-0.013589" maintranslate="280.272369,419.389862,80.050377" paanim="3" paanimsynchval="5.2305" phase="0.000000" setlean="0" surfacenorm="0.000000,-0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="0" torsopaanimsynchval="0"/>
+    <munch actionpending="0" allegiance="1" alpha="1.000000" alreadydead="0" chairid="0" ispoweredup="0" jumpintowell="0" staydead="0" targetid="0" welljumpheight="0.000000" wellpos="0.000000,0.000000,0.000000"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="10.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.013590,-0.999908,-0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="4.458235" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="399" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="5" mnSurfaceGuid="0" motion="1" motionstart="7.841322" newmotion="1" nextfootstep="4.401583" physicsflags="0" resetcamera="70050" resetpoint="280.000000,440.000000,80.099998" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="280.272339,419.389832,80.000381" surfacevector="0.000000,-0.000000,1.000000" targetid="0" unconscioushealth="1100.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="70062" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70063" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70065" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70067" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70068" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70069" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70070" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70071" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70073" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70074" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor avoid="1" collidetype="1" guid="17" health="1,1000.000000,0.000000,1000.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="1" spooce="1,0.000000,0.000000,10000.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="shamancore" scriptname="shamancore"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="668" done="0" error="0" exit="1" name="shamancore" resetgoal="0" switch="0"><scroddsymboltable><scroddsymbol intvalue="1" symbolname="sayreturn" type="3"/><scroddsymbol intvalue="10" symbolname="teleportsound" type="3"/><scroddsymbol intvalue="196" symbolname="x" type="3"/><scroddsymbol intvalue="-1320" symbolname="y" type="3"/><scroddsymbol intvalue="80" symbolname="z" type="3"/><scroddsymbol stringvalue="ssr0109.sgt" symbolname="whatyousay" type="5"/><scroddsymbol intvalue="2" symbolname="talkto" type="3"/><scroddsymbol intvalue="70321" symbolname="shamanguid" type="3"/><scroddsymbol realvalue="1.000000" symbolname="pretalkdelay" type="4"/><scroddsymbol realvalue="1.000000" symbolname="posttalkdelay" type="4"/><scroddsymbol intvalue="1" symbolname="_scrd_goalstate" type="3"/><scroddsymbol realvalue="8.391265" symbolname="_scrd_goaltime" type="4"/></scroddsymboltable></scroddexecutor></scroddthread></behavior>
+    <shortgoal action="0" avoidfinishedturn="1" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="0" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="0" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="-627.614" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="31" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <mudokonanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceiling0="0.000000" alphaceilingsize="1" clampcompleted="0" completetime="13.841251" createwithshieldtype="8" createwithweapontype="8" facing="0.580890,0.813982,0.000000" fadeduration="0.000000" fadeendalpha="0.000000" fadeinprogress="1" fadestartalpha="0.000000" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,-2.521776" maintranslate="196.000000,-1320.000000,80.000000" paanim="0" paanimsynchval="0.297216" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,-0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="0" torsopaanimsynchval="0.297216" weaponscale="1.000000"/>
+    <mudokon actionpending="0" allegiance="1" alpha="1.000000" alreadydead="0" chantsnd="0" chanttype="0" growid="0" growing="0" ispoweredup="0" jumpintowell="0" staydead="1" targetid="0" tossintowell="0" vehicleid="0" welljumpheight="0.000000" wellposition="0.000000,0.000000,0.000000"/>
+    <mouth animrequested="1" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="190" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.580890,0.813982,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="1.655736" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="256" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="-8" mnSurfaceGuid="0" motion="0" motionstart="8.107972" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="196.689987,-1320.509888,80.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="264.029999,396.629974,80.000374" surfacevector="0.000000,-0.000000,1.000000" targetid="0" unconscioushealth="1000.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fadeactor fadeStatus="1" timeToRemove="-3.96387"/>
+    <detachactor attachmentStatus="1"/>
+</actor>
+<actor collidetype="0" guid="70076" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70077" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70078" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70079" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70080" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70081" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70082" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70083" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70084" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70085" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70086" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70087" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70088" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70090" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.996195,0.087156,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-1.658053" maintranslate="105.699997,-517.809998,80.050026" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="105.699997,-517.809998,80.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70091" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.719340,0.694658,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-2.338730" maintranslate="123.479996,-529.979980,80.050018" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="123.479996,-529.979980,80.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="70092" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="touchstone70092" scriptname="touchstone70092"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="200" done="0" error="0" exit="1" name="touchstone70092" resetgoal="0" switch="0"><scroddsymboltable/></scroddexecutor></scroddthread></behavior>
+    <touchstone/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="13.333331" facing="-0.707107,0.707107,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,2.356206" maintranslate="301.719971,368.309998,80.000366" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="70093" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="touchstone70093" scriptname="touchstone70093"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="200" done="0" error="0" exit="1" name="touchstone70093" resetgoal="0" switch="0"><scroddsymboltable/></scroddexecutor></scroddthread></behavior>
+    <touchstone/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="13.333331" facing="-0.000000,1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,3.141593" maintranslate="240.000000,0.000000,86.412460" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="70095" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="touchstone70095" scriptname="touchstone70095"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="200" done="0" error="0" exit="1" name="touchstone70095" resetgoal="0" switch="0"><scroddsymboltable/></scroddexecutor></scroddthread></behavior>
+    <touchstone/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="13.333331" facing="-0.382683,-0.923880,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.392710" maintranslate="286.769989,-304.549988,80.000107" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="70096" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="touchstone70096" scriptname="touchstone70096"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="200" done="0" error="0" exit="1" name="touchstone70096" resetgoal="0" switch="0"><scroddsymboltable/></scroddexecutor></scroddthread></behavior>
+    <touchstone/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="13.333331" facing="0.707107,0.707107,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,-2.356206" maintranslate="108.449997,-1332.899902,79.999718" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="70294" shouldtick="1" velocity="0,0,0">
+    <texturelight/>
+</actor>
+<actor collidetype="0" guid="70295" shouldtick="1" velocity="0,0,0">
+    <bullseye/>
+    <textdisplay2 active="1" color="0.000000,1.000000,0.000000,1.000000" flicker="1" message="MIT SPOOCE AKTIVIEREN" riseoffset="0.000000" scrolloffset="-41.496906" speed="0.500000" type="0"/>
+    <textdisplay active="1" color="0.200000,0.700000,0.850000,1.000000" flicker="1" message="99" riseoffset="0.000000" scrolloffset="0.000000" speed="0.000000" type="1"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="-0.000000,1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,3.141593" maintranslate="141.529999,-1356.769897,79.999710" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <genericobject/>
+</actor>
+<actor collidetype="0" guid="70109" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70110" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70112" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70113" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70114" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70115" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70116" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70117" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70118" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70119" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70121" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.743145,-0.669131,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-0.837758" maintranslate="524.579956,-221.969986,80.050133" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="524.579956,-221.969986,80.299995" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="70125" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70127" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70321" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="shamanspawn" scriptname="shamanspawn"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="1300" done="0" error="0" exit="1" name="shamanspawn" resetgoal="0" switch="0"><scroddsymboltable><scroddsymbol intvalue="1" symbolname="count" type="3"/><scroddsymbol intvalue="4" symbolname="quarma" type="3"/><scroddsymbol realvalue="30.000000" symbolname="activationsize" type="4"/><scroddsymbol realvalue="17.000000" symbolname="spawnsize" type="4"/><scroddsymbol realvalue="6.000000" symbolname="deadsize" type="4"/><scroddsymbol stringvalue="ssr0109.sgt" symbolname="good" type="5"/><scroddsymbol stringvalue="ssr0109.sgt" symbolname="bad" type="5"/><scroddsymbol intvalue="70321" symbolname="shamanguid" type="3"/></scroddsymboltable></scroddexecutor></scroddthread></behavior>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="16.666666" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="264.029999,396.629974,81.000000" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <fadeactor fadeStatus="0" timeToRemove="-12.3531"/>
+    <detachactor attachmentStatus="0"/>
+</actor>
+<actor collidetype="0" guid="70128" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70132" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70133" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.707107,0.707107,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-2.356206" maintranslate="154.739990,-696.899963,61.383610" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="154.739990,-696.899963,61.579998" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70134" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.000000,1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-3.141593" maintranslate="186.079987,-676.929993,61.383610" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="186.079987,-676.929993,61.579998" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70135" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.000000,1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-3.141593" maintranslate="257.099976,-692.459961,61.383610" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="257.099976,-692.459961,59.209999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="70136" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70137" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70138" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70139" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70140" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70141" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70142" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="1" guid="70337" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="watereverywhere" scriptname="watereverywhere"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="192" done="0" error="0" exit="1" name="watereverywhere" resetgoal="0" switch="0"><scroddsymboltable><scroddsymbol intvalue="1" symbolname="soundhandle" type="3"/></scroddsymboltable></scroddexecutor></scroddthread></behavior>
+    <nullanimation/>
+    <genericobject/>
+</actor>
+<actor collidetype="0" guid="70145" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70146" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70147" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70148" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70149" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70150" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70152" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70153" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70155" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70156" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70160" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70162" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70164" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70165" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70166" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70167" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70168" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70169" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70170" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70171" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70172" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70173" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70174" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70175" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70176" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70177" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70178" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70179" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70180" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70181" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70182" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70183" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70184" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70185" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70186" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70187" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70188" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70189" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70190" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70191" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70192" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70193" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70194" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70197" shouldtick="1" velocity="0,0,0">
+    <well alphaceilingsize="0" clampcompleted="0" closeonlaunch="0" completetime="0.000000" comptimedelta="-13.205134" depthoffset="0.000000" destlaunchheight="0.000000" destpnt="0.000000,0.000000,0.000000" donotclose="0" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" ignore="0" isloaded="0" isopen="1" launcheeguid="1048836" launchfrom="0.000000,0.000000,0.000000" leanangle="0.000000" leanback="1.000000" leanforward="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="239.859985,-119.769997,79.799995" paanim="124" paanimsynchval="0.266667" phase="-0.266667" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" usereject="61" wellhascontrol="0"/>
+</actor>
+<actor collidetype="0" guid="70198" shouldtick="1" velocity="0,0,0">
+    <well alphaceilingsize="0" clampcompleted="0" closeonlaunch="0" completetime="0.000000" comptimedelta="-13.205134" depthoffset="1.000000" destlaunchheight="1.000000" destpnt="0.000000,0.000000,0.000000" donotclose="0" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" ignore="0" isloaded="0" isopen="1" launcheeguid="1065353216" launchfrom="0.000000,0.000000,0.000000" leanangle="0.000000" leanback="1.000000" leanforward="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="240.639999,164.589996,79.799995" paanim="124" paanimsynchval="0.266667" phase="-0.266667" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" usereject="63" wellhascontrol="0"/>
+</actor>
+<actor collidetype="0" guid="70005" shouldtick="1" velocity="0,0,0">
+    <water percentlevel="1.000000"/>
+</actor>
+<actor collidetype="0" guid="70199" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70200" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70007" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70008" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70009" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70010" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70204" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70011" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70205" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70012" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70206" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70207" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70014" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor collidetype="0" guid="70208" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70015" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor collidetype="0" guid="70209" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70016" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor collidetype="0" guid="70210" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70017" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor collidetype="0" guid="70018" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor collidetype="0" guid="70019" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70213" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70020" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70214" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70021" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70215" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70022" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70216" shouldtick="1" velocity="0,0,0">
+    <well alphaceilingsize="0" clampcompleted="0" closeonlaunch="0" completetime="0.000000" comptimedelta="-13.205134" depthoffset="0.545234" destlaunchheight="0.830852" destpnt="0.000000,0.000000,0.000000" donotclose="0" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" ignore="0" isloaded="0" isopen="1" launcheeguid="1026513823" launchfrom="0.000000,0.000000,0.000000" leanangle="0.000000" leanback="1.000000" leanforward="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="520.439941,-282.289978,80.139999" paanim="124" paanimsynchval="0.266667" phase="-0.266667" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" usereject="61" wellhascontrol="0"/>
+</actor>
+<actor collidetype="0" guid="70023" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70217" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70024" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70218" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70025" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70219" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70220" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70027" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70221" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70028" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70222" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70223" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70030" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70224" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70031" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70225" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70032" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70033" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70034" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70036" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70037" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70039" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70040" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70042" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="70043" shouldtick="1" velocity="0,0,0">
+    <assetlock activeerrmsgs="0" displayedamount="99.000000" errordisplayed="0" errortimeout="1146502842" isactivated="0" isready="1" requiredamount="99.000000" state="0" transferamount="0.000000" whoactivated="0"/>
+    <textdisplay active="0" color="0.000000,1.000000,0.000000,1.000000" flicker="0" message="0" riseoffset="0.000000" scrolloffset="0.000000" speed="1.000000" type="1"/>
+    <sparklestream activesparkles="0" destination="0.000000,0.000000,0.000000" intervaltimeout="-13.205134" origin="0.000000,0.000000,0.000000" remainingsparkles="0" sparkletype="0" value="1.000000"/>
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="70044" shouldtick="1" velocity="0,0,0">
+    <door isopen="0"/>
+    <dooranimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" lastinstopen="0" leanangle="0.000000" leanback="1.000000" leanforward="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="240.000000,-1368.189941,79.999702" navopen="0" paanim="123" paanimsynchval="3.33333" phase="-3.333333" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" waitingtoclose="0"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70051" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="-0.629320,-0.777146,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.680689" maintranslate="226.119995,-859.969971,80.049896" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="23" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="226.119995,-859.969971,80.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70052" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="251.789993,-853.269958,80.049896" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="251.789993,-853.269958,80.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70053" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="-0.587785,-0.809017,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.628316" maintranslate="196.889999,-1150.279907,71.492989" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="196.889999,-1150.279907,71.439995" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70054" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="217.639999,-1065.579956,71.492981" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="217.639999,-1065.579956,71.439995" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="70055" health="0,800.000000,0.000000,800.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm15slogs.txt" scriptname=""/>
+    <sparklefx/>
+    <sloganimation alphaceilingsize="0" clampcompleted="0" completetime="0.266667" facing="0.350207,-0.936672,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-0.357804" maintranslate="283.929993,-1097.039917,71.492966" paanim="0" paanimsynchval="0.138468" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.138468"/>
+    <slog/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-13.2051" sound="0" soundtarget="0" soundtime="13.2051" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-13.2051" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-13.2051" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-804201778"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="283.929993,-1097.039917,71.439995" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="800.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-13.2051" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+</room>
+</layout>
+</environment>
+<possession guid="0" state="1"/><playercontrol target="2"/></aliveSave> µÜn⁄r∫X®≥IWÓ8∂˙OŸù

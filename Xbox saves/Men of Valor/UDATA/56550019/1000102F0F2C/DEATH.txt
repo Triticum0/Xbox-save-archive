@@ -1,0 +1,148 @@
+SIG_LENGTH=20
+#ëÙa«´™ù\§1JÞ0Jvíd
+PROFILE=DEATH
+LEVEL=op3_l2e
+OPTIONS=?Name=DEATH?Class=VietnamCharacters.PlayerCharacter?Team=0?VoiceMask=0?Skin=?Face=?CharacterName=Player?Gamertag=
+BEGIN_PAWN=smooth
+Class=VietnamCharacters.Marine_Black_Alt Name=Marine_Black_Alt0
+{
+TimeTillNextBleed=1.234015
+Weapon=WeaponM0
+WeaponM16'op3_l2d.WeaponM0'
+}
+Class=VietnamWeapons.Ammo556NATO Name=Ammo556NATO0
+{
+}
+Class=VietnamWeapons.WeaponM16 Name=WeaponM0
+{
+AmmoType=Ammo556NATO0
+Ammo556NATO'op3_l2d.Ammo556NATO0'
+ReloadCount=14
+}
+END_PAWN
+BEGIN_PAWN=PlayerController0
+Class=VietnamCharacters.PlayerCharacter Name=PlayerCharacter1
+{
+TimeTillNextBleed=1.411044
+Weapon=WeaponRPD7
+WeaponRPD'op3_l2d.WeaponRPD7'
+Health=98
+}
+Class=VietnamGame.VietnamPlayerReplicationInfo Name=VietnamPlayerReplicationInfo1
+{
+iShotsFired=1884
+iShotsHit=149
+strPreferredWeapon=RPD
+iHitsTaken=29
+iEnemiesKilled=107
+iHeadShots=29
+iTorsoShots=48
+iLeftArmShots=30
+iRightArmShots=10
+iLeftLegShots=18
+iRightLegShots=14
+iOpShotsFired=1650
+iOpShotsHit=146
+strOpPreferredWeapon=RPD
+iOpHitsTaken=62
+iOpEnemiesKilled=81
+iOpHeadShots=28
+iOpTorsoShots=50
+iOpLeftArmShots=31
+iOpRightArmShots=10
+iOpLeftLegShots=17
+iOpRightLegShots=10
+iCampaignShotsFired=12076
+iCampaignShotsHit=1045
+strCampaignPreferredWeapon=M60
+iCampaignHitsTaken=439
+iCampaignEnemiesKilled=619
+iCampaignHeadShots=158
+iCampaignTorsoShots=403
+iCampaignLeftArmShots=204
+iCampaignRightArmShots=91
+iCampaignLeftLegShots=130
+iCampaignRightLegShots=59
+}
+Class=VietnamWeapons.Ammo762NATOBeltFed Name=Ammo762NATOBeltFed6
+{
+}
+Class=VietnamWeapons.Ammo556NATO Name=Ammo556NATO6
+{
+AmmoAmount=8
+}
+Class=VietnamWeapons.Ammo762WP Name=Ammo762WP32
+{
+AmmoAmount=91
+}
+Class=VietnamWeapons.AmmoM79FragGrenade Name=AmmoM79FragGrenade1
+{
+}
+Class=VietnamWeapons.AmmoM79Buckshot Name=AmmoM79Buckshot1
+{
+}
+Class=VietnamWeapons.AmmoM79SmokeGrenade Name=AmmoM79SmokeGrenade1
+{
+}
+Class=VietnamWeapons.WeaponM60 Name=WeaponM11
+{
+AmmoType=Ammo762NATOBeltFed6
+Ammo762NATOBeltFed'op3_l2d.Ammo762NATOBeltFed6'
+ReloadCount=0
+TravelWeaponMenuPosition=3
+}
+Class=VietnamWeapons.WeaponM16 Name=WeaponM12
+{
+AmmoType=Ammo556NATO6
+Ammo556NATO'op3_l2d.Ammo556NATO6'
+ReloadCount=0
+TravelWeaponMenuPosition=0
+}
+Class=VietnamWeapons.WeaponType56 Name=WeaponType25
+{
+AmmoType=Ammo762WP32
+Ammo762WP'op3_l2d.Ammo762WP32'
+ReloadCount=17
+TravelWeaponMenuPosition=1
+}
+Class=VietnamWeapons.WeaponRPD Name=WeaponRPD7
+{
+AmmoType=Ammo762WP32
+Ammo762WP'op3_l2d.Ammo762WP32'
+ReloadCount=71
+TravelWeaponMenuPosition=2
+}
+END_PAWN
+BEGIN_PAWN=Hoss
+Class=VietnamCharacters.USMC_Machinegunner Name=USMC_Machinegunner1
+{
+TimeTillNextBleed=0.487160
+Weapon=WeaponM13
+WeaponM60'op3_l2d.WeaponM13'
+}
+Class=VietnamWeapons.Ammo762NATOBeltFed Name=Ammo762NATOBeltFed7
+{
+}
+Class=VietnamWeapons.WeaponM60 Name=WeaponM13
+{
+AmmoType=Ammo762NATOBeltFed7
+Ammo762NATOBeltFed'op3_l2d.Ammo762NATOBeltFed7'
+}
+END_PAWN
+BEGIN_PAWN=Hodges
+Class=VietnamCharacters.USMC_RadioMan Name=USMC_RadioMan1
+{
+TimeTillNextBleed=2.088167
+Weapon=WeaponM14
+WeaponM16'op3_l2d.WeaponM14'
+Health=80
+}
+Class=VietnamWeapons.Ammo556NATO Name=Ammo556NATO7
+{
+}
+Class=VietnamWeapons.WeaponM16 Name=WeaponM14
+{
+AmmoType=Ammo556NATO7
+Ammo556NATO'op3_l2d.Ammo556NATO7'
+}
+END_PAWN

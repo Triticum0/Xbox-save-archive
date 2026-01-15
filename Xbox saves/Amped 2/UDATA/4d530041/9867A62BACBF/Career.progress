@@ -1,0 +1,32 @@
+Progress = 
+{
+	BestRankInEvent1 = 1,
+	BestRankInEvent2 = 1,
+	BestRankInEvent3 = 1,
+	BestRankInEvent4 = 1,
+	GrabsLocked = 0,
+	NumOTMChalDoneAU2 = 7,
+	NumOTMChalDoneBK1 = 7,
+	NumOTMChalDoneBR2 = 7,
+	NumOTMChalDoneBR4 = 7,
+	NumOTMChalDoneHD2 = 7,
+	NumOTMChalDoneLX1 = 7,
+	NumOTMChalDoneLX2 = 7,
+	NumOTMChalDoneML1 = 7,
+	NumOTMChalDoneML2 = 7,
+	NumOTMChalDoneNZ1 = 7,
+	NumOTMTricksDoneAU2 = 5,
+	NumOTMTricksDoneBK1 = 5,
+	NumOTMTricksDoneBR2 = 5,
+	NumOTMTricksDoneBR4 = 5,
+	NumOTMTricksDoneHD2 = 5,
+	NumOTMTricksDoneLX1 = 5,
+	NumOTMTricksDoneLX2 = 5,
+	NumOTMTricksDoneML1 = 5,
+	NumOTMTricksDoneML2 = 5,
+	NumOTMTricksDoneNZ1 = 5,
+	NumScoreChalDone = 60,
+	NumTotalChalDone = 194,
+}
+
+

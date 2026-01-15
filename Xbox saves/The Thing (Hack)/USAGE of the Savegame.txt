@@ -1,0 +1,11 @@
+This mod will enable :
+- Level Select (all levels unlocked)
+- Load Save Game ingame menu option (may not work in some Xbox models)
+- All Weapons and Accessories at the beginning of every level
+- Full Ammo for All Weapons
+- Invincible / Invulnerable Player
+- Invincible / Invulnerable NPC (every ally or team member)
+
+The file can be edited with a Text editor, so each mode can be set to 1 (enabled) or 0 (disabled) selectively.
+
+To enable the mod, place it in the root of the installed game (backup the previous "TheThing.reg" file first before overwriting it, in case of any incompatibility).

@@ -1,0 +1,53 @@
+level = d:\levels\carnival;
+area = insidekosmobot;
+gametime = 38665;
+[chaptersfinished]
+{
+	area = frenchquarter courtyard;
+	area = frenchquarter bigpig;
+	area = frenchquarter mainstreet;
+	area = frenchquarter thesquare;
+	area = frenchquarter museum;
+	area = sewers maintunnel;
+	area = sewers propellerroom;
+	area = sewers rocketlab;
+	area = sewers throttleup;
+	area = sewers stealthroom;
+	area = sewers basketcase;
+	area = sewers wrathofjanice;
+	area = cryptcity gatekeeperjam;
+	area = cryptcity sarcophagushustle;
+	area = cryptcity zombieguidancecounselor;
+	area = cryptcity gwistlethorpemausoleum;
+	area = cryptcity ratracerodeo;
+	area = manorhouse frontporch;
+	area = manorhouse tumblerroom;
+	area = manorhouse captainsroom;
+	area = manorhouse tintoyterror;
+	area = manorhouse playroom;
+	area = manorhouse glowberrytangle;
+	area = manorhouse boltroidbattle;
+	area = bayou crawdadjimmys;
+	area = bayou thebogwallow;
+	area = bayou earthwoodandwater;
+	area = bayou thesausageworks;
+	area = bayou jeanlafittesship;
+	area = bayou belowdecks;
+	area = bayou jimmysfanboat;
+	area = bayou hurricanehannah;
+	area = carnival midway;
+	area = carnival houseomirrors;
+	area = carnival scarehouse;
+	area = carnival landorides;
+	area = carnival bumpercarbumpoff;
+	area = carnival insidekosmobot;
+}
+
+[Options] {
+MUSIC_VOLUME = 1.000000;
+SOUND_VOLUME = 1.000000;
+CINEMATIC_VOLUME = 1.000000;
+SUBTITLES = 1;
+HREVERSECAM = 0;
+VREVERSECAM = 0;
+}

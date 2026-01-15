@@ -1,0 +1,73 @@
+BoarderDefinition = 
+{
+	Board = L"Bobby Meeks' Board",
+	BoardSkills = 
+	{
+		Balance = 3,
+		Jump = 2,
+		Speed = 2,
+		Spin = 3,
+		Switch = 2,
+	},
+	CareerStatus = 5,
+	MeshFilename = "U:\\9867A62BACBF\\Career.parts",
+	Name = L"marrrrk",
+	NumReplays = 14,
+	Options = 
+	{
+		Audio = 
+		{
+			HeadphonesOn = false,
+			MusicVolume = 0.9000000953674316,
+			SFXVolume = 0.6999999284744263,
+			ShufflePlayOn = true,
+			SongInfoOn = true,
+			SpeechVolume = 0.7000000476837158,
+		},
+		EducationScreens = 
+		{
+			EventOn = false,
+			LegendOn = false,
+			NormalOn = false,
+			OTMOn = false,
+			PhotoShootOn = false,
+			ProOn = false,
+			SnowSkateOn = false,
+			SponsorOn = false,
+		},
+		Game = 
+		{
+			CameraDistance = 1,
+			ControllerScheme = "alternate.control",
+			Hints = false,
+			Vibration = true,
+		},
+		Online = 
+		{
+			AppearOnline = false,
+			GameSettings = 
+			{
+				JustRide = 
+				{
+					Collisions = false,
+					LevelSelect = 1,
+					MaxPlayers = 8,
+					TimeLimit = 4,
+				},
+			},
+			LiveVoiceSetting = 1,
+		},
+	},
+	PreferredStanceIsRegular = true,
+	Skills = 
+	{
+		Balance = 8,
+		Jump = 13,
+		Speed = 11,
+		Spin = 11,
+		Switch = 7,
+	},
+	WorldRank = 1,
+}
+
+

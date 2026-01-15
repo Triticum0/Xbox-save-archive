@@ -1,0 +1,69 @@
+DataComponentTypes[ 3 ]
+{
+	DataComponent { Type Int	NumComponents 44 }
+	DataComponent { Type Real	NumComponents 6 }
+	DataComponent { Type String	NumComponents 10 }
+}
+DataRegistry[ 60 ]
+{
+	DataLink { Name "P1Varint"	Type Int	Data -1 }
+	DataLink { Name "P1Played"	Type Int	Floor 0	Ceiling 1	Data 1 }
+	DataLink { Name "P1ExperM"	Type Int	Floor 0	Ceiling 5000000	Data 113 }
+	DataLink { Name "P1ExperR"	Type Int	Floor 0	Ceiling 5000000	Data 13024 }
+	DataLink { Name "P1ExperC"	Type Int	Floor 0	Ceiling 5000000	Data 2002 }
+	DataLink { Name "P1LevelM"	Type Int	Floor 0	Ceiling 5000000	Data 1 }
+	DataLink { Name "P1LevelR"	Type Int	Floor 0	Ceiling 5000000	Data 12 }
+	DataLink { Name "P1LevelC"	Type Int	Floor 0	Ceiling 5000000	Data 5 }
+	DataLink { Name "P1MKills"	Type Int	Floor 0	Ceiling 5000000	Data 168 }
+	DataLink { Name "P1BKills"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1EdgeLevel"	Type Int	Floor 0	Ceiling 5000000	Data 5 }
+	DataLink { Name "P1MeleeWeaponLevel"	Type Int	Floor 0	Ceiling 100	Data 1 }
+	DataLink { Name "P1RangeWeaponLevel"	Type Int	Floor 0	Ceiling 100	Data 12 }
+	DataLink { Name "P1Rescues"	Type Int	Floor 0	Ceiling 5000000	Data 4 }
+	DataLink { Name "P1StrBase"	Type Int	Floor 0	Ceiling 5000000	Data 9 }
+	DataLink { Name "P1StrCur"	Type Int	Floor 0	Ceiling 5000000	Data 9 }
+	DataLink { Name "P1HpBase"	Type Int	Floor 0	Ceiling 5000000	Data 100 }
+	DataLink { Name "P1HpCur"	Type Int	Floor 0	Ceiling 5000000	Data 100 }
+	DataLink { Name "P1ConBase"	Type Int	Floor 0	Ceiling 5000000	Data 100 }
+	DataLink { Name "P1ConCur"	Type Int	Floor 0	Ceiling 5000000	Data 100 }
+	DataLink { Name "P1CRBase"	Type Real	Floor 0.000000	Ceiling 5000000.000000	Data 0.450000 }
+	DataLink { Name "P1CRCur"	Type Real	Floor 0.000000	Ceiling 5000000.000000	Data 0.450000 }
+	DataLink { Name "P1AccBase"	Type Int	Floor 0	Ceiling 5000000	Data 44 }
+	DataLink { Name "P1AccCur"	Type Int	Floor 0	Ceiling 5000000	Data 44 }
+	DataLink { Name "P1SpdBase"	Type Int	Floor 0	Ceiling 5000000	Data 13 }
+	DataLink { Name "P1SpdCur"	Type Int	Floor 0	Ceiling 5000000	Data 13 }
+	DataLink { Name "P1DPCBase"	Type Real	Floor 0.000000	Ceiling 5000000.000000	Data 0.190000 }
+	DataLink { Name "P1DPCCur"	Type Real	Floor 0.000000	Ceiling 5000000.000000	Data 0.190000 }
+	DataLink { Name "P1DPCRBase"	Type Real	Floor 0.000000	Ceiling 5000000.000000	Data 0.180000 }
+	DataLink { Name "P1DPCRCur"	Type Real	Floor 0.000000	Ceiling 5000000.000000	Data 0.180000 }
+	DataLink { Name "P1EDGE1"	Type String	Ceiling 16	Data "REJU201" }
+	DataLink { Name "P1EDGE2"	Type String	Ceiling 16	Data "NULL" }
+	DataLink { Name "P1EDGE3"	Type String	Ceiling 16	Data "NULL" }
+	DataLink { Name "P1EDGE4"	Type String	Ceiling 16	Data "NULL" }
+	DataLink { Name "P1WEAP3"	Type String	Ceiling 8	Data "NULL" }
+	DataLink { Name "P1WEAP4"	Type String	Ceiling 8	Data "NULL" }
+	DataLink { Name "P1WEAP5"	Type String	Ceiling 8	Data "NULL" }
+	DataLink { Name "P1WEAP6"	Type String	Ceiling 8	Data "NULL" }
+	DataLink { Name "P1WEAP7"	Type String	Ceiling 8	Data "NULL" }
+	DataLink { Name "P1WEAP8"	Type String	Ceiling 8	Data "NULL" }
+	DataLink { Name "P1AMMO1"	Type Int	Floor 0	Ceiling 5000000	Data 82 }
+	DataLink { Name "P1AMMO2"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO3"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO4"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO5"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO6"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO7"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO8"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO9"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO10"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO11"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO12"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO13"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO14"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO15"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO16"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO17"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO18"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO19"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+	DataLink { Name "P1AMMO20"	Type Int	Floor 0	Ceiling 5000000	Data 0 }
+}

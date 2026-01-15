@@ -1,0 +1,219 @@
+DataComponentTypes[ 4 ]
+{
+	DataComponent { Type String	NumComponents 34 }
+	DataComponent { Type IntArray	NumComponents 102 }
+	DataComponent { Type RealArray	NumComponents 53 }
+	DataComponent { Type StringArray	NumComponents 20 }
+}
+DataRegistry[ 209 ]
+{
+	DataLink { Name "ROOT"	Type String	Ceiling 15	Data "Root" }
+	DataLink { Name "NETWORK_SETTINGS"	Type String	Parent "ROOT\"	Ceiling 20	Data "Network" }
+	DataLink { Name "CURRENT_ROSTER_NAME"	Type StringArray	Parent "ROOT\NETWORK_SETTINGS\"	Ceiling 16	NumElements 2	Data "2003-2004" " 0 "  }
+	DataLink { Name "USER_EDITABLE_SETTINGS"	Type String	Parent "ROOT\"	Ceiling 20	Data "Data Field" }
+	DataLink { Name "GAMEPLAY"	Type String	Parent "ROOT\USER_EDITABLE_SETTINGS\"	Ceiling 10	Data "Gameplay" }
+	DataLink { Name "DIFFICULTY_LEVEL"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	Floor 0	NumElements 2	Data 1 1  }
+	DataLink { Name "QUARTER_LENGTH"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	Floor 0	NumElements 2	Data 120000 1  }
+	DataLink { Name "RANKING"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	NumElements 2	Data 0 1  }
+	DataLink { Name "PLAYER_FATIGUE"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	NumElements 2	Data 0 1  }
+	DataLink { Name "PLAYER_STREAKS"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	NumElements 2	Data 1 1  }
+	DataLink { Name "PLAYER_INJURIES"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	Floor 0	NumElements 2	Data 1 1  }
+	DataLink { Name "ROSTER_TYPE"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	NumElements 2	Data 1 1  }
+	DataLink { Name "NUM_FOULS_ALLOWED"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	Floor 0	NumElements 2	Data 0 1  }
+	DataLink { Name "VIOLATION_MASK"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	Floor 0	NumElements 2	Data 130559 1  }
+	DataLink { Name "FOUL_MASK"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\GAMEPLAY\"	Floor 0	NumElements 2	Data 3583 1  }
+	DataLink { Name "ONLINE"	Type String	Parent "ROOT\USER_EDITABLE_SETTINGS\"	Ceiling 10	Data "Voice" }
+	DataLink { Name "ONLINE_STATUS"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\ONLINE\"	NumElements 2	Data 1 0  }
+	DataLink { Name "VISUAL"	Type String	Parent "ROOT\USER_EDITABLE_SETTINGS\"	Ceiling 10	Data "Visual" }
+	DataLink { Name "STADIUM"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\VISUAL\"	NumElements 2	Data 30 1  }
+	DataLink { Name "SCOREBOARD"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\VISUAL\"	NumElements 2	Data 1 0  }
+	DataLink { Name "PLAYER_INDICATOR"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\VISUAL\"	Floor 0	NumElements 2	Data 0 0  }
+	DataLink { Name "SHOT_METER"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\VISUAL\"	NumElements 2	Data 1 0  }
+	DataLink { Name "GAME_DEFAULT_CAMERA"	Type StringArray	Parent "ROOT\USER_EDITABLE_SETTINGS\VISUAL\"	Ceiling 30	NumElements 2	Data "BROADCASTCAM" " 0 "  }
+	DataLink { Name "AUTO_REPLAY_FREQUENCY"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\VISUAL\"	Floor 0	NumElements 2	Data 3 1  }
+	DataLink { Name "CUT_SCENE_FREQUENCY"	Type IntArray	Parent "ROOT\USER_EDITABLE_SETTINGS\VISUAL\"	Floor 0	NumElements 2	Data 2 1  }
+	DataLink { Name "AUDIO"	Type String	Parent "ROOT\USER_EDITABLE_SETTINGS\"	Ceiling 10	Data "Audio" }
+	DataLink { Name "COMMENTARY_VOLUME"	Type RealArray	Parent "ROOT\USER_EDITABLE_SETTINGS\AUDIO\"	Floor 0.000000	NumElements 2	Data 1.000000 0.000000  }
+	DataLink { Name "PA_VOLUME"	Type RealArray	Parent "ROOT\USER_EDITABLE_SETTINGS\AUDIO\"	Floor 0.000000	NumElements 2	Data 0.888889 0.000000  }
+	DataLink { Name "SFX_VOLUME"	Type RealArray	Parent "ROOT\USER_EDITABLE_SETTINGS\AUDIO\"	Floor 0.000000	NumElements 2	Data 1.000000 0.000000  }
+	DataLink { Name "CROWD_VOLUME"	Type RealArray	Parent "ROOT\USER_EDITABLE_SETTINGS\AUDIO\"	Floor 0.000000	NumElements 2	Data 0.888889 0.000000  }
+	DataLink { Name "ONCOURT_CHATTER_VOLUME"	Type RealArray	Parent "ROOT\USER_EDITABLE_SETTINGS\AUDIO\"	Floor 0.000000	NumElements 2	Data 1.000000 0.000000  }
+	DataLink { Name "UI_MUSIC_VOLUME"	Type RealArray	Parent "ROOT\USER_EDITABLE_SETTINGS\AUDIO\"	Floor 0.000000	NumElements 2	Data 0.700000 0.000000  }
+	DataLink { Name "INGAME_MUSIC_VOLUME"	Type RealArray	Parent "ROOT\USER_EDITABLE_SETTINGS\AUDIO\"	Floor 0.000000	NumElements 2	Data 1.000000 0.000000  }
+	DataLink { Name "AI_SLIDERS"	Type String	Parent "ROOT\"	Ceiling 20	Data "AI Sliders" }
+	DataLink { Name "GLOBAL"	Type String	Parent "ROOT\AI_SLIDERS\"	Ceiling 10	Data "GLOBAL" }
+	DataLink { Name "ANIMATION_PLAYBACK_SPEED_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\GLOBAL\"	Floor 0.000000	NumElements 2	Data 0.880000 1.000000  }
+	DataLink { Name "INJURY_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\GLOBAL\"	Floor 0.000000	NumElements 2	Data 0.500000 1.000000  }
+	DataLink { Name "FOUL_STRICTNESS_SLIDER"	Type IntArray	Parent "ROOT\AI_SLIDERS\GLOBAL\"	Floor 0	NumElements 2	Data 0 1  }
+	DataLink { Name "AI_SPECIFIC"	Type String	Parent "ROOT\AI_SLIDERS\"	Ceiling 15	Data "AI_SPECIFIC" }
+	DataLink { Name "BLOCKING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.700000 1.000000  }
+	DataLink { Name "STEAL_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.300000 1.000000  }
+	DataLink { Name "SHORT_RANGE_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 1.000000 1.000000  }
+	DataLink { Name "MID_RANGE_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.500000 1.000000  }
+	DataLink { Name "LONG_RANGE_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.500000 1.000000  }
+	DataLink { Name "3PT_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 1.000000 1.000000  }
+	DataLink { Name "FT_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.500000 1.000000  }
+	DataLink { Name "DUNKING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.400000 1.000000  }
+	DataLink { Name "DEKE_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.400000 1.000000  }
+	DataLink { Name "HOOK_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\AI_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.300000 1.000000  }
+	DataLink { Name "UC_SPECIFIC"	Type String	Parent "ROOT\AI_SLIDERS\"	Ceiling 15	Data "UC_SPECIFIC" }
+	DataLink { Name "BLOCKING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.700000 1.000000  }
+	DataLink { Name "STEAL_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 1.000000 1.000000  }
+	DataLink { Name "SHORT_RANGE_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 1.000000 1.000000  }
+	DataLink { Name "MID_RANGE_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.500000 1.000000  }
+	DataLink { Name "LONG_RANGE_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.500000 1.000000  }
+	DataLink { Name "3PT_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 1.000000 1.000000  }
+	DataLink { Name "FT_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.500000 1.000000  }
+	DataLink { Name "DUNKING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.400000 1.000000  }
+	DataLink { Name "DEKE_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.400000 1.000000  }
+	DataLink { Name "HOOK_SHOOTING_SLIDER"	Type RealArray	Parent "ROOT\AI_SLIDERS\UC_SPECIFIC\"	Floor 0.000000	NumElements 2	Data 0.400000 1.000000  }
+	DataLink { Name "COACHING"	Type String	Parent "ROOT\"	Ceiling 20	Data "Coaching" }
+	DataLink { Name "HOME_TEAM"	Type String	Parent "ROOT\COACHING\"	Ceiling 10	Data "HomeTeam" }
+	DataLink { Name "AUTOCOACH"	Type String	Parent "ROOT\COACHING\HOME_TEAM\"	Ceiling 10	Data "Autocoach" }
+	DataLink { Name "OFFENSIVE_REBOUNDING"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "DEFENSIVE_REBOUNDING"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "HALF_COURT_TEMPO"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "FASTBREAK_TENDENCY"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "TIMEOUTS"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "SUBS"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "PLAYERS"	Type String	Parent "ROOT\COACHING\HOME_TEAM\"	Ceiling 10	Data "Players" }
+	DataLink { Name "PG"	Type String	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\"	Ceiling 10	Data "PG" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PG\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PG\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "SG"	Type String	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\"	Ceiling 10	Data "SG" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SG\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SG\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "SF"	Type String	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\"	Ceiling 10	Data "SF" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SF\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 2 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\SF\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "PF"	Type String	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\"	Ceiling 10	Data "PF" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PF\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\PF\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "C"	Type String	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\"	Ceiling 10	Data "C" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\C\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\PLAYERS\C\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "OFFENSE"	Type String	Parent "ROOT\COACHING\HOME_TEAM\"	Ceiling 10	Data "Offense" }
+	DataLink { Name "PLAY_SET"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "PLAY"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\"	Floor -1	NumElements 2	Data -1 2  }
+	DataLink { Name "DEFAULT_SCREEN_PLAY"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "FASTBREAK_TENDENCY"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "HALF_COURT_TEMPO"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "TRANSITION_TEMPO"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "REBOUNDING_AGGRESSIVENESS"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "PLAYBOOK"	Type String	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\"	Ceiling 10	Data "Playbook" }
+	DataLink { Name "USING_CUSTOM_PLAYBOOK"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\PLAYBOOK\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "PLAY1"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\PLAYBOOK\"	Ceiling 9	NumElements 2	Data "TRIANGLE" " 2 "  }
+	DataLink { Name "PLAY2"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\PLAYBOOK\"	Ceiling 9	NumElements 2	Data "DBLSTACK" " 2 "  }
+	DataLink { Name "PLAY3"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\PLAYBOOK\"	Ceiling 9	NumElements 2	Data "DRAWKICK" " 2 "  }
+	DataLink { Name "PLAY4"	Type StringArray	Parent "ROOT\COACHING\HOME_TEAM\OFFENSE\PLAYBOOK\"	Ceiling 9	NumElements 2	Data "HAWKSCN" " 2 "  }
+	DataLink { Name "DEFENSE"	Type String	Parent "ROOT\COACHING\HOME_TEAM\"	Ceiling 10	Data "Defense" }
+	DataLink { Name "TEAM_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "ONEONONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "PRESSURE"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "REBOUNDING_AGGRESSIVENESS"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "INTENTIONAL_FOULING"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "SWITCH_ON_PICKS"	Type IntArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "TEAM_WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "TEAM_WILLINGNESS_DEFENSIVE_CHANCES"	Type RealArray	Parent "ROOT\COACHING\HOME_TEAM\DEFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "AWAY_TEAM"	Type String	Parent "ROOT\COACHING\"	Ceiling 10	Data "AwayTeam" }
+	DataLink { Name "AUTOCOACH"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\"	Ceiling 10	Data "Autocoach" }
+	DataLink { Name "OFFENSIVE_REBOUNDING"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "DEFENSIVE_REBOUNDING"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "HALF_COURT_TEMPO"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "FASTBREAK_TENDENCY"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "TIMEOUTS"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "SUBS"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\AUTOCOACH\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "PLAYERS"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\"	Ceiling 10	Data "Players" }
+	DataLink { Name "PG"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\"	Ceiling 10	Data "PG" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PG\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PG\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "SG"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\"	Ceiling 10	Data "SG" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SG\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 1 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SG\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SG\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "SF"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\"	Ceiling 10	Data "SF" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SF\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 2 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\SF\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "PF"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\"	Ceiling 10	Data "PF" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PF\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PF\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\PF\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "C"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\"	Ceiling 10	Data "C" }
+	DataLink { Name "UNIQUE_ID"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\C\"	Ceiling 9	NumElements 2	Data "NULL" " 2 "  }
+	DataLink { Name "OPP_MATCHUP_ID"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "ONE_ON_ONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DEFENSIVE_PRESSURE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\C\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\PLAYERS\C\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "OFFENSE"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\"	Ceiling 10	Data "Offense" }
+	DataLink { Name "PLAY_SET"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "PLAY"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\"	Floor -1	NumElements 2	Data -1 2  }
+	DataLink { Name "DEFAULT_SCREEN_PLAY"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "FASTBREAK_TENDENCY"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "HALF_COURT_TEMPO"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "TRANSITION_TEMPO"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "REBOUNDING_AGGRESSIVENESS"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "PLAYBOOK"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\"	Ceiling 10	Data "Playbook" }
+	DataLink { Name "USING_CUSTOM_PLAYBOOK"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\PLAYBOOK\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "PLAY1"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\PLAYBOOK\"	Ceiling 9	NumElements 2	Data "TRIANGLE" " 2 "  }
+	DataLink { Name "PLAY2"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\PLAYBOOK\"	Ceiling 9	NumElements 2	Data "DBLSTACK" " 2 "  }
+	DataLink { Name "PLAY3"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\PLAYBOOK\"	Ceiling 9	NumElements 2	Data "DRAWKICK" " 2 "  }
+	DataLink { Name "PLAY4"	Type StringArray	Parent "ROOT\COACHING\AWAY_TEAM\OFFENSE\PLAYBOOK\"	Ceiling 9	NumElements 2	Data "HAWKSCN" " 2 "  }
+	DataLink { Name "DEFENSE"	Type String	Parent "ROOT\COACHING\AWAY_TEAM\"	Ceiling 10	Data "Defense" }
+	DataLink { Name "TEAM_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "ONEONONE_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "POST_DEFENSE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "DOUBLE_TEAM"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 4 2  }
+	DataLink { Name "PRESSURE"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 3 2  }
+	DataLink { Name "REBOUNDING_AGGRESSIVENESS"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "INTENTIONAL_FOULING"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "SWITCH_ON_PICKS"	Type IntArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0	NumElements 2	Data 0 2  }
+	DataLink { Name "TEAM_WILLINGNESS_TO_FOUL"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+	DataLink { Name "TEAM_WILLINGNESS_DEFENSIVE_CHANCES"	Type RealArray	Parent "ROOT\COACHING\AWAY_TEAM\DEFENSE\"	Floor 0.000000	NumElements 2	Data 0.500000 2.000000  }
+}

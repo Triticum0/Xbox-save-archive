@@ -1,0 +1,7 @@
+Hacked Outlaw Volleyball Save by Brien L. Johnson
+
+This save file has everything unlocked for your pleasure.  The only thing is that it doesn't have MAX Stats implemented into it even though I could have.  The simple fact is that I do not want to be seen as promoting cheating on Xbox Live.  This save will not let you cheat, it simply unlocks everything for you to use.  I have heard rumors that Action Replay was going to release a save that unlocked everything and could possibly have MAX stats.  I wanted to beat them by releasing my save before them, although I WIL NOT put MAX stats into any Xbox Live enabled save.  It is a moral decision I am making, if you don't like it, sorry.  I have left the tour mode and skill modes in the state your game came with, that way you can go through the tour modes and skill modes on your own and still enjoy the game offline.  I always do that with my hacked saves, it is no fun to download an unlocked save, yet everything is already completed.  I hope you have been enjoying the saves I have made and will continue to make in the future.  Have fun with this and check out Summer's ass in a thong, if that's your thing, personally, I don't like blondes, but Summer is the one most people seem to want to unlock.
+
+Take care people and above all, have fun!
+
+email: brienj@comcast.net

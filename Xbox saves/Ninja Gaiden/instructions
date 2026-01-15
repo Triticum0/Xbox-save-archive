@@ -1,0 +1,58 @@
+
+Download XSavSig005 from http://www.xbox-saves.com/downloads/XSavSig005.zip
+
+Extract XSavSig005.zip to some temp directory.
+
+Find your 128-bit (32 hex characters) HDDKey.  You can find this two ways:
+    (a) In c:\backup\hddinfo.txt
+    (b) Run the ConfigMagic program in your XBox to get the key
+    
+    Note: I used method (b), since I already nuked my backup directory
+
+Add the following lines to the resign.ini file in the temp directory
+
+[54430003]
+ID=54430003
+Title=Ninja Gaiden Save File
+SigKey=A50114CA2B7C8198E829E7C937D6FC40
+AuthKey=B32B2E0A471CDE09C8E2F925E87C9CA768964B34
+DataFile=save000.dat
+DataOffset=20
+SigOffset=0
+SigType=NoRoam
+
+[54430003_1]
+ID=54430003
+Title=Ninja Gaiden System File
+SigKey=A50114CA2B7C8198E829E7C937D6FC40
+AuthKey=B32B2E0A471CDE09C8E2F925E87C9CA768964B34
+DataFile=system.dat
+DataOffset=20
+SigOffset=0
+SigType=NoRoam
+
+Edit the xbhddkey.ini file in the temp directory and edit the line:
+HDDKey=00000000000000000000000000000000
+Replace the zeroes with your HDDkey.  It should have the same number of characters
+
+Run the XSigSig.exe program in the temp directory
+
+Type "AGREE" and hit return
+
+In the Sign section, select "Ninja Gaiden Save File"
+
+In the File section, press the "..." button and select the save file (save00x.dat) and press the "Open" button
+
+Press the "Apply" button.  This will fix the key
+
+Press the "OK" button.
+
+Do this for each save game
+
+Now put the saves onto your Xbox.
+
+
+
+
+
+

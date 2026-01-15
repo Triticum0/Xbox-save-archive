@@ -1,0 +1,65 @@
+Found all hese in the default.xbe 
+
+Put the codes in at the rider name screen (Case sensitive)
+
+ To open   -   Code
+
+Mr Poppy   - piggypiggy   
+Mr Herdie  - foxieloxie  
+Mr Perfect - perfection 
+Bouncy     - RubberTime  
+Al Gore    - Dracklier   
+Respect    - BlingBling 
+Mrs Meet   - PushBike   
+TimesTable - Calculator 
+FastToggle - EggNChips   
+TimeToggle - Vindaloo    
+Jayber     - who jhb 
+Food Man   - who roger   
+WildeWoman - who sara    
+Model Man  - who woz 
+Tommy2Trak - who tom 
+Snow Man   - who richj   
+Art Honcho - who matt    
+Rodney     - who dave    
+MouseMan   - who rob 
+Cobber     - who glenn   
+Bruce      - who lewis   
+Movie Man  - who steve   
+Boss Man   - who dom 
+FillyOFish - who phil    
+SickArtBoy - whokristof  
+Scrabbler  - who jimb    
+who max    - who tony
+4CheesePls - who mumu    
+The Bevil  - who del 
+Will Will  - who will    
+Night Owl  - who mark    
+FanTango   - who mikey   
+EgBxMonkey - who rich    
+Cube Boy 2 - who james   
+Anim Man   - who martin  
+He Da Man  - who dan 
+Cube Boy   - who bork    
+TrafficMan - who pete    
+Stinky Bob - who jimg    
+Glansville - who stink   
+Mr Glans   - who smell   
+Yo Ho Ho   - .LANG   
+Mr D.Bug   - .DBUG   
+Mr D.Test  - .TEST   
+Mr GP      - .PRIX   
+Mr BestLap - .LAPT   
+Mr Meet    - .MEET   
+Mr Respect - .RESP   
+
+
+Dont know whats going on with these ones but they seem to be covered by the ones above ;)
+
+nejnej     - allall  
+impimp     - haohao  
+iffiff     - bowwow  
+gowgow     - meepmeep    
+oinkoink   - cowcow  
+Mr Cheat   - borkbork
+Mr Speiler -     

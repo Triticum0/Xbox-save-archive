@@ -1,0 +1,9 @@
+Sega GT Online savegame:
+- All official and event races complete
+- Some really good cars (almost fully enhanced) in garage
+- All Chronicles Mode tasks complete (all chars unlocked for Quick Race Mode)
+- All Gathering Mode tasks complete
+
+Usage:
+Extract the content of the zip file on C: (if your Xbox uses C: drive to contain savegames)
+REMEMBER TO BACKUP YOUR PREVIOUS SAVEGAME IF ANY  

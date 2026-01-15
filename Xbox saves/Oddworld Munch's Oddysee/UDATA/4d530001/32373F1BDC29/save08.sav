@@ -1,0 +1,1078 @@
+<aliveSave>
+<clock accumulated="3.272147"/>
+<game abespooce="0.000000" munchspooce="0.000000"><layouttally alive="0" flavor="mudokon" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="native" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="archer" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="tomohawker" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="worker" killed="0" rescued="0"/>
+<layouttally alive="1" flavor="shaman" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="abe" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="slig" killed="0" rescued="0"/>
+<layouttally alive="12" flavor="fuzzle" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="glukkon" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="slog" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="scrab" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="paramite" killed="0" rescued="0"/>
+<layouttally alive="20" flavor="intern" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="bigbro" killed="0" rescued="0"/>
+<layouttally alive="1" flavor="munch" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="meetle" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="vykker" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="meep" killed="0" rescued="0"/>
+<layouttally alive="0" flavor="eggcrate" killed="0" rescued="0"/>
+<gametally alive="0" flavor="mudokon" killed="0" rescued="0"/>
+<gametally alive="9" flavor="native" killed="0" rescued="0"/>
+<gametally alive="0" flavor="archer" killed="0" rescued="0"/>
+<gametally alive="0" flavor="tomohawker" killed="0" rescued="0"/>
+<gametally alive="0" flavor="worker" killed="0" rescued="0"/>
+<gametally alive="5" flavor="shaman" killed="0" rescued="0"/>
+<gametally alive="2" flavor="abe" killed="0" rescued="0"/>
+<gametally alive="0" flavor="slig" killed="1" rescued="0"/>
+<gametally alive="0" flavor="fuzzle" killed="0" rescued="51"/>
+<gametally alive="0" flavor="glukkon" killed="0" rescued="0"/>
+<gametally alive="47" flavor="slog" killed="4" rescued="0"/>
+<gametally alive="0" flavor="scrab" killed="0" rescued="0"/>
+<gametally alive="0" flavor="paramite" killed="0" rescued="0"/>
+<gametally alive="5" flavor="intern" killed="24" rescued="0"/>
+<gametally alive="0" flavor="bigbro" killed="0" rescued="0"/>
+<gametally alive="3" flavor="munch" killed="5" rescued="0"/>
+<gametally alive="0" flavor="meetle" killed="0" rescued="0"/>
+<gametally alive="0" flavor="vykker" killed="0" rescued="0"/>
+<gametally alive="0" flavor="meep" killed="0" rescued="0"/>
+<gametally alive="0" flavor="eggcrate" killed="0" rescued="0"/>
+</game>
+<oddio EnvEffect="12" PrimaryMusic="munch03.sgt"/>
+<environment filename="./../layout/region01/room12/room12.xrg" health="0.000000">
+<layout filename="./../Layout/Region01/room12/room12.xin" loaded="yes">
+<director avgcameradirection="0.328696,-0.903121,-0.257864" blendduration="0.000000" blendtimer="0.000000" camera="55463" cameraresetflag="0" characterschanged="0" currentcharacterid="2" cutflag="0" freezeRemaining="0.000000" newTargetDelayRemaining="0.000000" newTargetPending="0" targetid="2"><trackinginfoabe camera="55463" isvalid="0" position="0.000000,0.000000,0.000000"/>
+<trackinginfomunch camera="55463" isvalid="1" position="2703.259766,-27.639999,93.981705"/>
+<trackinginfotarget camera="55463" isvalid="1" position="2703.259766,-27.639999,93.981705"/>
+<blendcamera0 anchorpos="0.000000,0.000000,0.000000" averagespeed="0.000000" averagevelocity="0.000000,0.000000,0.000000" camheight="10.000000" camtype="follow" centerx="0.500000" centery="0.500000" enabledpad="1" farclip="1000.000000" filteredfollowpoint="0.000000,0.000000,0.000000" followmax="200.000000" followmin="50.000000" followpoint="0.000000,0.000000,0.000000" heading="0.000000" heightmax="100.000000" heightmin="0.000000" jumplookdelay="0.500000" jumplookfactor="1.000000" jumplooktimer="0.000000" lensfactor="1.000000" lockheading="0" lookdist="20.000000" lookfactor="20.000000" lookheight="15.000000" lookspeed="0.250000" movespeed="0.250000" nocollidetest="0" noobstructtest="0" occlusiontimer="0.000000" pitch="0.000000" position="0.000000,0.000000,0.000000" previousfollowpoint="0.000000,0.000000,0.000000" stuckstate="0" stuckvector="0.000000,0.000000,0.000000" zmovefactor="0.500000"/>
+<blendcamera1 anchorpos="0.000000,0.000000,0.000000" averagespeed="0.000000" averagevelocity="0.000000,0.000000,0.000000" camheight="20.000000" camtype="follow" centerx="0.500000" centery="0.350000" enabledpad="1" farclip="800.000000" filteredfollowpoint="2690.262695,8.068317,125.931709" followmax="50.000000" followmin="38.000000" followpoint="2690.262695,8.068317,125.931709" heading="-200.000000" heightmax="50.000000" heightmin="0.000000" jumplookdelay="4.000000" jumplookfactor="0.000000" jumplooktimer="0.000000" lensfactor="1.000000" lockheading="0" lookdist="0.000000" lookfactor="20.000000" lookheight="12.000000" lookspeed="0.250000" movespeed="0.500000" nocollidetest="0" noobstructtest="0" occlusiontimer="0.000000" pitch="0.000000" position="2687.719971,-1.700000,104.859993" previousfollowpoint="2690.262695,8.068317,125.931709" stuckstate="0" stuckvector="0.000000,0.000000,0.000000" zmovefactor="0.500000"/>
+<currentview centerx="0.500000" centery="0.350000" farclip="800.000000" lensfactor="1.000000" pitchoffset="0.000000" position="2690.262695,8.068317,125.931709" targetposition="2703.259766,-27.639999,105.981705" yawoffset="0.000000"/>
+<charpreviouscamera0 anchorpos="0.000000,0.000000,0.000000" averagespeed="0.000000" averagevelocity="0.000000,0.000000,0.000000" camheight="10.000000" camtype="follow" centerx="0.500000" centery="0.500000" enabledpad="1" farclip="1000.000000" filteredfollowpoint="0.000000,0.000000,0.000000" followmax="200.000000" followmin="50.000000" followpoint="0.000000,0.000000,0.000000" heading="0.000000" heightmax="100.000000" heightmin="0.000000" jumplookdelay="0.500000" jumplookfactor="1.000000" jumplooktimer="0.000000" lensfactor="1.000000" lockheading="0" lookdist="0.000000" lookfactor="20.000000" lookheight="15.000000" lookspeed="0.250000" movespeed="0.250000" nocollidetest="0" noobstructtest="0" occlusiontimer="0.000000" pitch="0.000000" position="0.000000,0.000000,0.000000" previousfollowpoint="0.000000,0.000000,0.000000" stuckstate="0" stuckvector="0.000000,0.000000,0.000000" zmovefactor="0.500000"/>
+<charpreviouscamera1 anchorpos="0.000000,0.000000,0.000000" averagespeed="0.000000" averagevelocity="0.000000,0.000000,0.000000" camheight="20.000000" camtype="follow" centerx="0.500000" centery="0.350000" enabledpad="1" farclip="800.000000" filteredfollowpoint="2690.262695,8.068317,125.931709" followmax="50.000000" followmin="38.000000" followpoint="2690.262695,8.068317,125.931709" heading="-200.000000" heightmax="50.000000" heightmin="0.000000" jumplookdelay="4.000000" jumplookfactor="0.000000" jumplooktimer="0.000000" lensfactor="1.000000" lockheading="0" lookdist="0.000000" lookfactor="20.000000" lookheight="12.000000" lookspeed="0.250000" movespeed="0.500000" nocollidetest="0" noobstructtest="0" occlusiontimer="0.000000" pitch="0.000000" position="2687.719971,-1.700000,104.859993" previousfollowpoint="2690.262695,8.068317,125.931709" stuckstate="0" stuckvector="0.000000,0.000000,0.000000" zmovefactor="0.500000"/>
+</director>
+<room name="none">
+<actor collidetype="0" guid="55584" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2119.389893,-633.000000,9.195320" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="26.400000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55585" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1941.819946,-660.159973,9.195309" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="27.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55006" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1862.479980,-440.899994,9.320000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1862.479980,-440.899994,9.195304" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" enveffect="12" guid="2" health="0,1100.000000,0.000000,1100.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="1" spooce="0,0.000000,0.000000,10000.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="0" newscriptname="Munchbasic.txt" scriptname=""/>
+    <zapfx state="0"/>
+    <textdisplay active="0" color="0.000000,1.000000,0.000000,1.000000" flicker="0" message="0" riseoffset="0.000000" scrolloffset="0.000000" speed="20.000000" type="2"/>
+    <sparklefx/>
+    <sonar activatemsg="1" echomsg="0" pingtime="3.27215" tickmsg="0"/>
+    <shortgoal action="0" avoidfinishedturn="1" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="0" enabled="0" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="0" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="18" substate="2" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <munchanimation alphaceilingsize="0" clampcompleted="0" completetime="8.539441" facing="0.515038,-0.857167,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" gettingshot="0" leanangle="0.000000" leanback="-0.750000" leanforward="-0.750000" mainrotate="0.000000,0.000000,-0.541042" maintranslate="2703.259766,-27.639999,93.981705" paanim="0" paanimsynchval="1.39937" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="0" torsopaanimsynchval="1.39937"/>
+    <munch actionpending="0" allegiance="1" alpha="1.000000" alreadydead="0" chairid="0" ispoweredup="0" jumpintowell="0" staydead="0" targetid="0" welljumpheight="0.000000" wellpos="0.000000,0.000000,0.000000"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="10.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="4.304208" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="986" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="0" motion="0" motionstart="1.772774" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="55463" resetpoint="2703.000000,-27.000000,92.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="2703.259766,-27.639999,93.931709" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1100.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55587" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1893.789917,-569.159973,9.195306" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="28.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55008" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="2087.339844,-709.689941,9.320000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2087.339844,-709.689941,9.195318" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55588" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1893.539917,-551.239990,9.195306" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="30.000000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55589" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1894.069946,-534.000000,9.195306" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="31.200000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55010" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1939.859985,-628.000000,9.320000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1939.859985,-628.000000,9.195309" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55590" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1894.389893,-516.739990,9.195306" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="32.400000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55591" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1894.599976,-499.789978,9.195306" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="33.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55592" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1773.589966,-489.409973,9.195298" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="34.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55593" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1774.119995,-506.359985,9.195298" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="36.000000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55594" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1829.289917,-460.519989,9.195302" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="37.200000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55595" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1706.189941,-452.929993,9.195294" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="38.400000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55596" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1706.859985,-469.689972,9.195294" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="39.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55597" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1665.409912,-502.279999,9.195292" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="40.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55404" shouldtick="1" velocity="0,0,0">
+    <teleporter activated="0" effectcompleted="1" error="0" notcleared="1" numpads="1" padcarguid0="0" padcarried0="0" padguid0="0" padheight0="12.000000" padoffset0="0.000000,0.000000,0.000000" padpositioned0="0" padradius0="10.000000" padreqguid0="0" ready="0" state="0" teleporting="0"/>
+    <teleporteranimation effectcompletedtime="-3.272147" texture="0" waitingforeffect="0"/>
+</actor>
+<actor collidetype="0" guid="55598" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1665.679932,-519.519958,9.195292" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="42.000000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55599" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1662.379883,-631.179993,9.195292" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="43.200000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55600" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1662.909912,-648.419983,9.195292" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="44.400000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor avoid="1" collidetype="1" guid="17" health="1,1000.000000,0.000000,1000.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="1" spooce="1,0.000000,0.000000,10000.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="shamancore" scriptname="shamancore"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="668" done="0" error="0" exit="1" name="shamancore" resetgoal="0" switch="0"><scroddsymboltable><scroddsymbol intvalue="2313" symbolname="x" type="3"/><scroddsymbol intvalue="-620" symbolname="y" type="3"/><scroddsymbol intvalue="49" symbolname="z" type="3"/><scroddsymbol stringvalue="" symbolname="whatyousay" type="5"/><scroddsymbol realvalue="0.250000" symbolname="pretalkdelay" type="4"/><scroddsymbol realvalue="0.250000" symbolname="posttalkdelay" type="4"/><scroddsymbol intvalue="1" symbolname="_scrd_goalstate" type="3"/></scroddsymboltable></scroddexecutor></scroddthread></behavior>
+    <shortgoal action="0" avoidfinishedturn="1" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="0" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="0" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="31" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <mudokonanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceiling0="0.000000" alphaceilingsize="1" clampcompleted="0" completetime="3.733333" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeduration="0.000000" fadeendalpha="0.000000" fadeinprogress="1" fadestartalpha="0.000000" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2313.049805,-620.609985,49.149998" paanim="0" paanimsynchval="0.472147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="0" torsopaanimsynchval="0.472147" weaponscale="1.000000"/>
+    <mudokon actionpending="0" allegiance="1" alpha="1.000000" alreadydead="0" chantsnd="0" chanttype="0" growid="0" growing="0" ispoweredup="0" jumpintowell="0" staydead="1" targetid="0" tossintowell="0" vehicleid="0" welljumpheight="0.000000" wellposition="0.000000,0.000000,0.000000"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="20.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="123" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="4.781137" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="-3" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="2313.049805,-620.609985,49.149998" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1000.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fadeactor fadeStatus="1" timeToRemove="-2.42014"/>
+    <detachactor attachmentStatus="1"/>
+</actor>
+<actor collidetype="0" guid="55601" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1709.359985,-695.039978,9.195294" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="45.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55408" shouldtick="1" velocity="0,0,0">
+    <spawner active="1" next="55256" nextspawntime="0.0672954" numberspawned="0"/>
+</actor>
+<actor collidetype="0" guid="55602" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1709.219971,-712.469971,9.195294" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="46.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55603" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1746.359985,-697.469971,9.195297" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="48.000000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55604" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1763.239990,-697.469971,9.195298" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="49.200000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55605" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1779.909912,-697.089966,9.195299" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="50.400000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55606" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1994.209961,-700.969971,9.195313" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="51.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55607" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1994.609985,-684.389954,9.195313" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="52.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55221" shouldtick="1" velocity="0,0,0">
+    <genericobject/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="3.333333" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1513.019897,-580.000000,135.719986" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55415" shouldtick="1" velocity="0,0,0">
+    <door isopen="0"/>
+    <dooranimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="1.000000,0.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" lastinstopen="0" leanangle="0.000000" leanback="1.000000" leanforward="1.000000" mainrotate="0.000000,0.000000,-1.570796" maintranslate="1646.429932,-577.599976,9.145291" navopen="0" paanim="123" paanimsynchval="0.5" phase="-0.500000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" waitingtoclose="0"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55421" health="0,1500.000000,0.000000,1500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interngunners.txt" scriptname=""/>
+    <weapon clipsize="8" deltashot="0.000000" infodamage="60.000000" infofirerate="4.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="15.000000" infotracerwidth="0.450000" infovelscale="1000.000000" infoweapontype="2" islethal="1" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="-1" possessedfirerate="8.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000004" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="-1.885284" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="255" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1666.089966,-613.189941,13.809999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="2" facing="1.000000,-0.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,-1.570796" maintranslate="1666.089966,-613.189941,9.195292" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="1" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="1147" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55422" health="0,1500.000000,0.000000,1500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interngunners.txt" scriptname=""/>
+    <weapon clipsize="8" deltashot="0.000000" infodamage="60.000000" infofirerate="4.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="15.000000" infotracerwidth="0.450000" infovelscale="1000.000000" infoweapontype="2" islethal="1" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="-1" possessedfirerate="8.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="-0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="-0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="224" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1666.029907,-600.579956,14.429999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="2" facing="1.000000,-0.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,-1.570796" maintranslate="1666.029907,-600.579956,9.195292" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="1" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="1060434203" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55423" health="0,1500.000000,0.000000,1500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interngunners.txt" scriptname=""/>
+    <weapon clipsize="8" deltashot="0.000000" infodamage="60.000000" infofirerate="4.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="15.000000" infotracerwidth="0.450000" infovelscale="1000.000000" infoweapontype="2" islethal="1" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="-1" possessedfirerate="8.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="4.065089" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="-0.290182" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="22" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1664.619995,-549.129944,14.410000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="2" facing="1.000000,-0.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,-1.570796" maintranslate="1664.619995,-549.129944,9.195292" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="56" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="1" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="1051199652" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55424" health="0,1500.000000,0.000000,1500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interngunners.txt" scriptname=""/>
+    <weapon clipsize="8" deltashot="0.000000" infodamage="60.000000" infofirerate="4.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="15.000000" infotracerwidth="0.450000" infovelscale="1000.000000" infoweapontype="2" islethal="1" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="-1" possessedfirerate="8.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1664.209961,-535.969971,12.570000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="2" facing="1.000000,-0.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,-1.570796" maintranslate="1664.209961,-535.969971,9.195292" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="1" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="-1094097939" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55426" shouldtick="1" velocity="0,0,0">
+    <broadcaster/>
+    <lever360animation ison="0"/>
+    <lever360 ison="0" istimingout="0" switchtimedelta="-16355.942037"/>
+</actor>
+<actor collidetype="2" guid="55427" shouldtick="1" velocity="0,0,0">
+    <doves angle="3.335131" healthtime="-3.27215" radius="15.000000" state="1" zangle="3.206102"/>
+    <sparklefx/>
+    <rescueportal ballscale="0.100000" chantingdetected="0" doveeffectcomplete="0" numescapees="0" opentimeout="-3.27215" state="0" whochanted="0"/>
+</actor>
+<actor collidetype="0" guid="55428" shouldtick="1" velocity="0,0,0">
+    <powerup/>
+    <vendingmachineanimation/>
+    <vendingmachine/>
+</actor>
+<actor collidetype="1" guid="55628" shouldtick="1" velocity="0,0,0">
+    <actortally/>
+    <textdisplay5 active="1" color="0.000000,1.000000,0.000000,1.000000" flicker="1" message="0" riseoffset="0.000000" scrolloffset="0.000000" speed="0.000000" type="1"/>
+    <textdisplay4 active="1" color="1.000000,0.000000,0.000000,1.000000" flicker="1" message="0" riseoffset="0.000000" scrolloffset="0.000000" speed="0.000000" type="1"/>
+    <textdisplay3 active="1" color="1.000000,0.000000,0.000000,1.000000" flicker="1" message="12" riseoffset="0.000000" scrolloffset="0.000000" speed="0.000000" type="1"/>
+    <textdisplay2 active="1" color="1.000000,0.000000,0.000000,1.000000" flicker="1" message="0" riseoffset="0.000000" scrolloffset="0.000000" speed="0.000000" type="1"/>
+    <textdisplay active="1" color="1.000000,0.000000,0.000000,1.000000" flicker="1" message="20" riseoffset="0.000000" scrolloffset="0.000000" speed="0.000000" type="1"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1804.799927,-419.229980,64.109993" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <genericobject/>
+    <actortally2/>
+</actor>
+<actor collidetype="0" guid="55640" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="shamanspawn" scriptname="shamanspawn"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="1300" done="0" error="0" exit="1" name="shamanspawn" resetgoal="0" switch="0"><scroddsymboltable><scroddsymbol realvalue="60.000000" symbolname="activationsize" type="4"/><scroddsymbol realvalue="17.000000" symbolname="spawnsize" type="4"/><scroddsymbol realvalue="6.000000" symbolname="deadsize" type="4"/><scroddsymbol stringvalue="ssr0104.sgt" symbolname="good" type="5"/><scroddsymbol stringvalue="ssr0105.sgt" symbolname="bad" type="5"/><scroddsymbol intvalue="55640" symbolname="shamanguid" type="3"/></scroddsymboltable></scroddexecutor></scroddthread></behavior>
+    <simpleanimation alphaceiling0="0.000000" alphaceilingsize="1" clampcompleted="0" completetime="16.666666" facing="0.000000,-1.000000,0.000000" fadeduration="0.000000" fadeendalpha="0.000000" fadeinprogress="1" fadestartalpha="0.000000" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2317.449951,-559.029968,49.500000" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <fadeactor fadeStatus="1" timeToRemove="-2.42014"/>
+    <detachactor attachmentStatus="1"/>
+</actor>
+<actor collidetype="0" guid="55641" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor collidetype="0" guid="55642" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55256" health="0,4000.000000,0.000000,4000.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="NoScript" scriptname=""/>
+    <zapfx state="0"/>
+    <weapon clipsize="40000" deltashot="0.000000" infodamage="150.000000" infofirerate="14.000000" infotracercolora="0.670000,0.970000,0.350000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="1000.000000" infoweapontype="3" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="-1" possessedfirerate="8.000000"/>
+    <textdisplay active="0" color="0.000000,1.000000,0.000000,1.000000" flicker="0" message="0" riseoffset="0.000000" scrolloffset="0.000000" speed="20.000000" type="2"/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="10.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="2178.819824,-430.529999,11.830000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="4000.000000" validsurface="1" verticalspeed="0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+    <candystriperanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="3" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2178.819824,-430.529999,9.195324" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0" weaponscale="1.000000"/>
+    <candystriper actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" engineSnd="0" hasgun="1" ispoweredup="0" lastaimlength="0.000000" possessorid="0" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+</actor>
+<actor collidetype="0" guid="55643" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor collidetype="0" guid="55644" shouldtick="1" velocity="0,0,0">
+    <dynamiclight/>
+</actor>
+<actor collidetype="0" guid="55645" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="statusboardcam" scriptname="statusboardcam"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="384" done="0" error="0" exit="1" name="statusboardcam" resetgoal="0" switch="0"><scroddsymboltable/></scroddexecutor></scroddthread></behavior>
+    <touchstone/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1684.419922,-455.509979,9.150000" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55648" shouldtick="1" velocity="0,0,0">
+    <texturelight/>
+</actor>
+<actor collidetype="0" guid="55071" shouldtick="1" velocity="0,0,0">
+    <water percentlevel="1.000000"/>
+</actor>
+<actor collidetype="0" guid="55458" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="touchstone55458" scriptname="touchstone55458"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="200" done="0" error="0" exit="1" name="touchstone55458" resetgoal="0" switch="0"><scroddsymboltable/></scroddexecutor></scroddthread></behavior>
+    <touchstone/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="3.333333" facing="1.000000,-0.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,-1.570796" maintranslate="2263.250000,-606.699951,49.145260" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55265" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="61" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1797.209961,-442.159973,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1797.209961,-442.159973,9.195300" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="192" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="1" guid="55460" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="possesionslate" scriptname="possesionslate"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="276" done="0" error="0" exit="1" name="possesionslate" resetgoal="0" switch="0"><scroddsymboltable/></scroddexecutor></scroddthread></behavior>
+    <nullanimation/>
+    <genericobject/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55267" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="2019.719971,-446.169983,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2019.719971,-446.169983,9.195314" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="74" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="-1174405120" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="1" guid="55654" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="factoryeverywhere" scriptname="factoryeverywhere"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="196" done="0" error="0" exit="1" name="factoryeverywhere" resetgoal="0" switch="0"><scroddsymboltable><scroddsymbol intvalue="5" symbolname="soundhandle" type="3"/></scroddsymboltable></scroddexecutor></scroddthread></behavior>
+    <nullanimation/>
+    <genericobject/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55268" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1857.859985,-715.839966,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1857.859985,-715.839966,9.195304" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55655" shouldtick="1" velocity="0,0,0">
+    <ladder/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55269" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1729.779907,-441.099976,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1729.779907,-441.099976,9.195296" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55270" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1730.029907,-714.739990,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1730.029907,-714.739990,9.195296" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="1" guid="55464" shouldtick="1" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12cameradirector" scriptname="r01rm12cameradirector"><scroddthread checkforrecursion="0" contexttype="1" executordied="0" switch="0" switchscript=""><scroddexecutor codebufferoffset="244" done="0" error="0" exit="1" name="r01rm12cameradirector" resetgoal="0" switch="0"><scroddsymboltable/></scroddexecutor></scroddthread></behavior>
+    <nullanimation/>
+    <genericobject/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55271" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1795.839966,-713.259949,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1795.839966,-713.259949,9.195300" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55467" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="55468" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="55469" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55276" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="2083.579834,-444.279999,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2083.579834,-444.279999,9.195317" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55471" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="0" guid="55472" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55282" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1963.669922,-711.289978,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1963.669922,-711.289978,9.195311" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55308" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55309" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55310" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55311" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55312" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55313" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55314" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55315" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55316" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55317" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55318" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55319" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55516" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="99" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1738.069946,-555.259949,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1738.069946,-555.259949,9.195296" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="21842928" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55323" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55327" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55522" shouldtick="1" velocity="0,0,0">
+    <spawner active="1" next="55516" nextspawntime="0.0672954" numberspawned="0"/>
+</actor>
+<actor collidetype="0" guid="55523" shouldtick="1" velocity="0,0,0">
+    <spawner active="1" next="55524" nextspawntime="0.0672954" numberspawned="0"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55524" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1738.399902,-571.159973,9.150000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1738.399902,-571.159973,9.195296" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55525" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55526" shouldtick="1" velocity="0,0,0">
+    <nullanimation/>
+</actor>
+<actor collidetype="0" guid="55528" shouldtick="1" velocity="0,0,0">
+    <powerup/>
+    <vendingmachineanimation/>
+    <vendingmachine/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55338" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1919.989990,-627.229980,20.799999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="-1.000000,-0.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,1.570796" maintranslate="1919.989990,-627.229980,18.764927" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55339" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1928.379883,-438.139984,19.969999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="-1.000000,-0.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,1.570796" maintranslate="1928.379883,-438.139984,18.746330" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55340" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1857.299927,-739.279968,20.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1857.299927,-739.279968,18.736706" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55346" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1793.500000,-739.099976,20.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1793.500000,-739.099976,18.751175" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55347" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1962.949951,-738.689941,19.830000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1962.949951,-738.689941,18.748936" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55348" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1920.319946,-693.139954,20.519999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="-1.000000,-0.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,1.570796" maintranslate="1920.319946,-693.139954,18.761347" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor collidetype="0" guid="55542" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55349" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="2028.109985,-739.009949,20.019999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2028.109985,-739.009949,18.765957" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor collidetype="0" guid="55543" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55350" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1730.279907,-421.799988,20.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-3.141593" maintranslate="1730.279907,-421.799988,18.740685" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor collidetype="0" guid="55544" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55351" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1795.669922,-421.849976,20.459999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-3.141593" maintranslate="1795.669922,-421.849976,18.759890" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor collidetype="0" guid="55545" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55352" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1859.149902,-422.449982,20.789999" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,-3.141593" maintranslate="1859.149902,-422.449982,18.791651" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor collidetype="0" guid="55546" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55353" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="2087.119873,-738.949951,20.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2087.119873,-738.949951,18.770769" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor collidetype="0" guid="55547" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55354" health="0,500.000000,0.000000,500.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="fuzzlecagebasic.txt" scriptname=""/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="40.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1729.229980,-739.239990,20.000000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="500.000000" validsurface="1" verticalspeed="0.000000"/>
+    <fuzzleanimation alphaceilingsize="0" clampcompleted="0" completetime="1.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" flipskinnormals="0" frequency="1.000000" leanangle="0.000000" leanback="-1.500000" leanforward="-1.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1729.229980,-739.239990,18.744785" paanim="0" paanimsynchval="0.272147" phase="0.000000" setlean="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0"/>
+    <fuzzle allegiance="1" alpha="1.000000" alreadydead="0" ispoweredup="0" staydead="1"/>
+    <ear/>
+</actor>
+<actor collidetype="0" guid="55548" shouldtick="1" velocity="0,0,0">
+    <collectable state="0"/>
+    <cruisecontroller/>
+</actor>
+<actor collidetype="2" guid="55549" shouldtick="1" velocity="0,0,0">
+    <explosion active="1" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="0" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+    <tetheredmine alphaceilingsize="0" facing="0.000000,-0.989090,0.147311" fadeinprogress="0" mainrotate="0.000000,0.000000,0.000000" maintranslate="2406.649902,-551.059998,54.839996" surfacenorm="-0.081397,0.146822,0.985808"/>
+    <floatation amplitude="0.000000" bobinittime="1.200000" floorz="36.723976" floorzset="1" inittimedelta="2.090824" isbouncing="0" isfloating="0" normal="-0.160529,0.289559,1.944191" numpeaks="4" waterguid="55071" waterz="86.669998"/>
+</actor>
+<actor collidetype="2" guid="55550" shouldtick="1" velocity="0,0,0">
+    <explosion active="1" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="0" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+    <tetheredmine alphaceilingsize="0" facing="0.000000,-0.984479,-0.175502" fadeinprogress="0" mainrotate="0.000000,0.000000,0.000000" maintranslate="2407.319824,-599.719971,54.839996" surfacenorm="0.140274,-0.173767,0.974745"/>
+    <floatation amplitude="0.000000" bobinittime="2.400000" floorz="38.340248" floorzset="1" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.273789,-0.339159,1.902519" numpeaks="4" waterguid="55071" waterz="86.669998"/>
+</actor>
+<actor collidetype="0" guid="55166" shouldtick="1" velocity="0,0,0">
+    <hcranepanel oldcameraguid="0" operatorguid="0"/>
+    <target/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="3.333333" facing="0.461749,-0.887011,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,-0.479965" maintranslate="2274.339844,-516.269958,49.145237" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55168" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1939.279907,-694.919983,9.320000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1939.279907,-694.919983,9.195309" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55169" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.000000" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="0" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="2027.759888,-711.529968,9.200000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2027.759888,-711.529968,9.195314" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="0" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55363" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1920.250000,-627.449951,18.743626" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor aimat="1" avoid="1" collidetype="1" guid="55170" health="0,1200.000000,0.000000,1200.000000,0.000000" moolah="1,0.000000,0.000000,100.000000,0.000000" shouldtick="0" spooce="1,0.000000,0.000000,100.000000,0.000000" velocity="0,0,0">
+    <behavior enabled="1" newscriptname="r01rm12interns.txt" scriptname=""/>
+    <weapon clipsize="50" deltashot="0.000000" infodamage="0.000000" infofirerate="10.000000" infotracercolora="1.000000,0.000000,0.000000,0.350000" infotracerlength="45.000000" infotracerwidth="0.450000" infovelscale="200.000000" infoweapontype="8" islethal="0" isshooting="0" lastshottimedelta="-3.272147" possessedclipsize="50" possessedfirerate="10.000000"/>
+    <sparklefx/>
+    <shortgoal action="0" avoidfinishedturn="0" avoidturntarget="0.000000,0.000000,0.000000" completetime="0.000000" delay="0" distance="0.000000" done="1" enabled="1" failureattempts="0" floorz="0.000000" lastdistancetonav="0" maxtraveldistance ="1500.000000" mntargetguid="0" motion="14" navigationfailed="0" needface="1" needsroute="0" nonmovingnavcount="0" savestate="0" shootingendtime="-3.27215" sound="0" soundtarget="0" soundtime="3.27215" soundvolume="0" speed="0.000000" startpos="0.000000,0.000000,0.000000" state="0" substate="0" subtimeout="-3.27215" target="0.000000,0.000000,0.000000" targetfacing="0.000000,0.000000,0.000000" targetprenavpos="0.000000,0.000000,0.000000" targetrange="0.000000" timeout="-3.27215" traveldist="0.106063" wasbeatinglasttick="0"/>
+    <shadow/>
+    <powersupply/>
+    <possess meOnDepossess="-1" meState="0"/>
+    <mouth animrequested="0" lastrequesttime="-2118323713"/>
+    <legmotion alwaysgethurt="0" attackdamage="50.000000" beatdelay="0" beingshot="0" carrierid="0" carryactor="0" climbcarrytype="0" climbexittop="0" climbguid="0" climbintnorm="0.000000,0.000000,0.000000" climbmounttop="104" climbtemp="0.000000,0.000000,0.000000" conscioustime="0.000000" deathtime="0.000000" destfacing="0.000000,-1.000000,0.000000" destination="0.000000,0.000000,0.000000" fallz="0.000000" feetinwater="0" idletime="0.000000" initialspeed="0.000000" jumps="0" knockedback="0" lastcollision="0.000000" lastframe="0" lastjumptime="0.000000" lastripple="0.000000" lasttimeshot="-50.000000" launching="0" launchpoint="0.000000,0.000000,0.000000" loopcount="0" mnSurfaceGuid="-1" motion="0" motionstart="0.000000" newmotion="0" nextfootstep="0.000000" physicsflags="0" resetcamera="0" resetpoint="1951.250000,-445.729980,9.320000" reversing="2" shotfired="0" shufflespeed="12.000000" slidesurface="0" speed="0.000000" surfacepoint="0.000000,0.000000,0.000000" surfacevector="0.000000,0.000000,1.000000" targetid="0" unconscioushealth="1200.000000" validsurface="1" verticalspeed="0.000000"/>
+    <internanimation aimdir="0.000000,-1.000000,0.000000" aimtarget="0" alphaceilingsize="0" clampcompleted="0" completetime="1.000000" createwithshieldtype="8" createwithweapontype="8" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" fireafterblend="0" flipskinnormals="0" frequency="1.000000" isaimingfacing="1" isshooting="0" lastaimangle="0.000000" lastvertangle="0.000000" leanangle="0.000000" leanback="2.000000" leanforward="0.500000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1951.250000,-445.729980,9.195310" paanim="0" paanimsynchval="0.272147" phase="0.000000" resetaim="0" setlean="0" shieldscale="1.000000" shieldup="0" surfacenorm="0.000000,0.000000,1.000000" throwdir="0.000000,0.000000,0.000000" throwleanmax="45.000000" torsoadjust="1" torsodisabled="1" torsopaanimsynchval="0.272147" weaponscale="1.000000"/>
+    <intern actionpending="0" aimdir="0.000000,-1.000000,0.000000" aimmode="0" aimtargetid="0" allegiance="3" alpha="1.000000" alreadydead="0" hasgun="0" ispoweredup="0" lastaimlength="0.000000" retargettime="3.27215" shieldup="0" staydead="1" targetid="22282380" targetpoint="0.000000,0.000000,0.000000"/>
+    <ear/>
+    <doves angle="0.000000" healthtime="-3.27215" radius="15.000000" state="0" zangle="0.000000"/>
+</actor>
+<actor collidetype="0" guid="55364" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1928.829956,-438.250000,18.749067" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55365" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1857.349976,-739.259949,18.685452" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55371" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1793.639893,-739.049988,18.705589" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55565" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2104.909912,-505.559998,9.195319" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="3.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55372" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1962.879883,-738.649963,18.704525" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55566" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2088.079834,-538.819946,9.195318" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="4.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55373" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1920.529907,-693.089966,18.737095" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55567" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2105.739990,-556.849976,9.195319" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="6.000000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55374" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2028.109985,-739.079956,18.707561" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55568" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2137.619873,-553.579956,9.195321" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="7.200000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55375" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1730.269897,-421.169983,18.615015" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55569" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2154.959961,-553.719971,9.195322" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="8.400000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55376" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1795.539917,-421.779999,18.700029" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55570" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2120.059814,-600.239990,9.195320" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="9.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55377" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1859.009888,-422.649994,18.764055" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55571" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2119.679932,-616.709961,9.195320" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="10.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55378" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2087.239990,-739.000000,18.713409" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55572" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2105.589844,-522.819946,9.195319" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="12.000000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55379" shouldtick="1" velocity="0,0,0">
+    <cage verbmsg="1"/>
+    <sonarecho/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="1" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1729.309937,-739.159973,18.703480" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+</actor>
+<actor collidetype="0" guid="55573" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2105.859863,-539.099976,9.195319" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="13.200000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55574" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2088.469971,-521.609985,9.195318" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="14.400000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55575" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2051.689941,-461.889984,9.195315" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="15.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55576" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2050.939941,-444.289978,9.195315" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="16.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55577" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2035.709961,-519.739990,9.195314" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="18.000000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55578" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2036.319946,-537.779968,9.195314" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="19.200000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55579" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2018.449951,-537.599976,9.195313" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="20.400000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55580" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2135.619873,-745.459961,9.195321" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="21.600000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55581" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2153.719971,-744.819946,9.195322" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="22.800000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55582" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="1994.209961,-717.500000,9.195313" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="24.000000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+<actor collidetype="0" guid="55583" shouldtick="1" velocity="0,0,0">
+    <crate/>
+    <simplemotion active="0" carrier="0"/>
+    <simpleanimation alphaceilingsize="0" clampcompleted="0" completetime="0.000000" facing="0.000000,-1.000000,0.000000" fadeinprogress="0" frequency="1.000000" mainrotate="0.000000,0.000000,0.000000" maintranslate="2119.399902,-649.119995,9.195320" phase="0.000000" surfacenorm="0.000000,0.000000,1.000000"/>
+    <floatation amplitude="0.000000" bobinittime="25.200000" floorz="0.000000" floorzset="0" inittimedelta="-1.000000" isbouncing="0" isfloating="0" normal="0.000000,0.000000,0.000000" numpeaks="4" waterguid="0" waterz="0.000000"/>
+    <explosion active="0" animationdonetime="0" culled="0" hasscorch="0" isexploding="0" nextpropagate="30" propagationdelay="0" propagationdepth="0" recoverytime="0" scale="1" tickphase="0"/>
+</actor>
+</room>
+</layout>
+</environment>
+<possession guid="0" state="1"/><playercontrol target="2"/></aliveSave> Ð‚ÎÔßþ7Š]jà«íCïðÏÄkC
