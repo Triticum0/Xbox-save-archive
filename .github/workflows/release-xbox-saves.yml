@@ -1,0 +1,104 @@
+name: Release Xbox Saves
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      chunks: ${{ steps.get-dirs.outputs.chunks }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Get list of directories and chunk them
+        id: get-dirs
+        run: |
+          python3 -c '
+          import os, json, math
+
+          base = "Xbox saves"
+          dirs = [d for d in os.listdir(base) if os.path.isdir(os.path.join(base, d))] if os.path.exists(base) else []
+          dirs.sort()
+
+          num_chunks = 64
+          chunk_size = max(1, math.ceil(len(dirs) / num_chunks))
+          chunks = []
+
+          for i in range(0, len(dirs), chunk_size):
+              chunks.append({
+                  "id": i // chunk_size,
+                  "dirs": dirs[i:i + chunk_size]
+              })
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+              fh.write(f"chunks={json.dumps(chunks)}\n")
+          '
+
+  build:
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        chunk: ${{ fromJson(needs.prepare.outputs.chunks) }}
+      fail-fast: false
+      max-parallel: 64
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Zip directory contents for chunk
+        env:
+          DIRS_JSON: ${{ toJson(matrix.chunk.dirs) }}
+        run: |
+          mkdir -p "${RUNNER_TEMP}/chunk_zips"
+
+          python3 -c '
+          import os, json, subprocess
+
+          dirs = json.loads(os.environ["DIRS_JSON"])
+          out_dir = os.path.join(os.environ["RUNNER_TEMP"], "chunk_zips")
+          root_dir = os.getcwd()
+
+          for d in dirs:
+              target_dir = os.path.join(root_dir, "Xbox saves", d)
+              zip_path = os.path.join(out_dir, f"{d}.zip")
+              subprocess.run(["zip", "-q", "-r", zip_path, "."], cwd=target_dir, check=True)
+          '
+
+      - name: Upload zip artifacts for chunk
+        uses: actions/upload-artifact@v7
+        with:
+          name: chunk-${{ matrix.chunk.id }}
+          path: ${{ runner.temp }}/chunk_zips/*.zip
+          retention-days: 1
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Download all zip artifacts
+        uses: actions/download-artifact@v8
+        with:
+          path: artifacts
+          merge-multiple: true
+
+      - name: Create Dynamic Release and Upload Assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          export TAG_NAME="release-$(date +'%Y%m%d-%H%M%S')"
+          export RELEASE_TITLE="Xbox Saves Release $(date +'%Y-%m-%d %H:%M:%S')"
+
+          python3 .github/scripts/upload_release_assets.py artifacts
